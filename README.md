@@ -44,3 +44,4 @@ streamlit run app.py
 7606 курсов с платформ Coursera, Udemy, Stepik и других.  
 25 категорий: Data Science / ML / AI, Python, Frontend, DevOps, SQL, Fullstack и др.
 # coursefind-diploma
+# diplom777

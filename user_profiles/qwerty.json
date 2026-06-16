@@ -3,1230 +3,6 @@
   "created_at": "2026-04-26T18:58:46.037945",
   "views": [
     {
-      "title": "Статистика для гуманитариев",
-      "category": "Data Science / ML / AI",
-      "difficulty": "Не указан",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:28:19.065487"
-    },
-    {
-      "title": "Медико-социальные исследования: основы статистического анализа — Stepik",
-      "category": "Data Science / ML / AI",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:28:19.068147"
-    },
-    {
-      "title": "Статистика в клинических исследованиях — Stepik",
-      "category": "Data Science / ML / AI",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:28:19.070661"
-    },
-    {
-      "title": "Основы статистики для врачей",
-      "category": "Data Science / ML / AI",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:28:19.073380"
-    },
-    {
-      "title": "Введение в статистику и проверку гипотез — Stepik",
-      "category": "Data Science / ML / AI",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:28:19.076054"
-    },
-    {
-      "title": "Pre-MBA Statistics",
-      "category": "Data Science / ML / AI",
-      "difficulty": "Beginner",
-      "language": "en",
-      "source": "coursera",
-      "ts": "2026-06-12T14:28:19.078933"
-    },
-    {
-      "title": "Basic Statistics for AI: Build the Foundation for ML",
-      "category": "Data Science / ML / AI",
-      "difficulty": "Beginner",
-      "language": "en",
-      "source": "udemy",
-      "ts": "2026-06-12T14:28:19.081406"
-    },
-    {
-      "title": "Calculating Descriptive Statistics in R",
-      "category": "Data Science / ML / AI",
-      "difficulty": "Beginner",
-      "language": "en",
-      "source": "coursera",
-      "ts": "2026-06-12T14:28:19.083967"
-    },
-    {
-      "title": "Introduction to Statistics in R - A Practical Approach",
-      "category": "Data Science / ML / AI",
-      "difficulty": "Beginner",
-      "language": "en",
-      "source": "udemy",
-      "ts": "2026-06-12T14:28:19.086516"
-    },
-    {
-      "title": "Data Science с Глебом Михайловым",
-      "category": "Data Science / ML / AI",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:28:19.089229"
-    },
-    {
-      "title": "АНАЛИЗ АССОРТИМЕНТА МАКСИМУМ (АВС-XYZ, оборачиваемость, скидки)",
-      "category": "Data Science / ML / AI",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:28:19.092227"
-    },
-    {
-      "title": "Mastering Statistics: Fundamentals to Data Analysis",
-      "category": "Data Science / ML / AI",
-      "difficulty": "Intermediate",
-      "language": "en",
-      "source": "udemy",
-      "ts": "2026-06-12T14:28:19.095097"
-    },
-    {
-      "title": "Основы высшей математики",
-      "category": "Other",
-      "difficulty": "Intermediate",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:28:19.097660"
-    },
-    {
-      "title": "Master the Normal (Gaussian) Distribution in Statistics",
-      "category": "Data Science / ML / AI",
-      "difficulty": "Beginner",
-      "language": "en",
-      "source": "udemy",
-      "ts": "2026-06-12T14:28:19.100497"
-    },
-    {
-      "title": "Probability for Statistics and Data Science",
-      "category": "Data Science / ML / AI",
-      "difficulty": "Intermediate",
-      "language": "en",
-      "source": "udemy",
-      "ts": "2026-06-12T14:28:19.103109"
-    },
-    {
-      "title": "Python for Data Science: Практика Numpy — Stepik",
-      "category": "Data Science / ML / AI",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:28:23.016693"
-    },
-    {
-      "title": "Основы Python для анализа данных — Stepik",
-      "category": "Python",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:28:23.022698"
-    },
-    {
-      "title": "Анализ+Визуализация данных.Python.Pandas.EDA с Нуля.Data Science",
-      "category": "Data Science / ML / AI",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:28:23.028929"
-    },
-    {
-      "title": "\"Поколение Python\": базы данных и SQL",
-      "category": "Python",
-      "difficulty": "Intermediate",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:28:23.032389"
-    },
-    {
-      "title": "Многопроцессорный Python",
-      "category": "Python",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:28:23.037864"
-    },
-    {
-      "title": "Введение в Data Science: от Python до машинного обучения",
-      "category": "Data Science / ML / AI",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:28:23.042903"
-    },
-    {
-      "title": "Пакет курсов \"Data Scientist\": Python + SQL + Машинное обучение",
-      "category": "Data Science / ML / AI",
-      "difficulty": "Не указан",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:28:23.049118"
-    },
-    {
-      "title": "Роадмап деда-программиста. Python бэкенд с 0 до джуна. — Stepik",
-      "category": "Python",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:28:23.053771"
-    },
-    {
-      "title": "Переносим Python(FastAPI/Django/Flask/TG БОТ)на сервер.VPS+ДОМЕН — Stepik",
-      "category": "Python",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:28:23.057259"
-    },
-    {
-      "title": "Лучший по Python",
-      "category": "Python",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:28:23.062717"
-    },
-    {
-      "title": "Python. Часть 2 (Списки и циклы) — Stepik",
-      "category": "Python",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:28:23.067643"
-    },
-    {
-      "title": "Python Data Science: самый быстрый курс — Stepik",
-      "category": "Data Science / ML / AI",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:28:23.070914"
-    },
-    {
-      "title": "QR-разложение Python.Грама-Шмидта. Математика машинного обучения",
-      "category": "Data Science / ML / AI",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:28:23.074562"
-    },
-    {
-      "title": "Асинхронный Python",
-      "category": "Python",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:28:23.080561"
-    },
-    {
-      "title": "Библиотеки Python для Data Science — Stepik",
-      "category": "Data Science / ML / AI",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:28:23.084659"
-    },
-    {
-      "title": "Python: самый быстрый курс — Stepik",
-      "category": "Python",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:28:23.088296"
-    },
-    {
-      "title": "Анализ данных Python: с 0 до уверенного бизнес-пользователя — Stepik",
-      "category": "Python",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:28:23.091567"
-    },
-    {
-      "title": "Python. Часть 1 (Базовый python и условные операторы) — Stepik",
-      "category": "Python",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:28:23.094964"
-    },
-    {
-      "title": "Сингулярное разложение SVD Python. Математика машинного обучения",
-      "category": "Data Science / ML / AI",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:28:23.100228"
-    },
-    {
-      "title": "DataOPS + Python Engineer с нуля до junior",
-      "category": "Data Science / ML / AI",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:28:23.103966"
-    },
-    {
-      "title": "Python for Data Science: Практика Numpy — Stepik",
-      "category": "Data Science / ML / AI",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:00.834057"
-    },
-    {
-      "title": "Основы Python для анализа данных — Stepik",
-      "category": "Python",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:00.838188"
-    },
-    {
-      "title": "Анализ+Визуализация данных.Python.Pandas.EDA с Нуля.Data Science",
-      "category": "Data Science / ML / AI",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:00.843974"
-    },
-    {
-      "title": "\"Поколение Python\": базы данных и SQL",
-      "category": "Python",
-      "difficulty": "Intermediate",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:00.847561"
-    },
-    {
-      "title": "Многопроцессорный Python",
-      "category": "Python",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:00.851158"
-    },
-    {
-      "title": "Введение в Data Science: от Python до машинного обучения",
-      "category": "Data Science / ML / AI",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:00.855016"
-    },
-    {
-      "title": "Пакет курсов \"Data Scientist\": Python + SQL + Машинное обучение",
-      "category": "Data Science / ML / AI",
-      "difficulty": "Не указан",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:00.858614"
-    },
-    {
-      "title": "Роадмап деда-программиста. Python бэкенд с 0 до джуна. — Stepik",
-      "category": "Python",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:00.862392"
-    },
-    {
-      "title": "Переносим Python(FastAPI/Django/Flask/TG БОТ)на сервер.VPS+ДОМЕН — Stepik",
-      "category": "Python",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:00.866063"
-    },
-    {
-      "title": "Лучший по Python",
-      "category": "Python",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:00.869984"
-    },
-    {
-      "title": "Python. Часть 2 (Списки и циклы) — Stepik",
-      "category": "Python",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:00.874282"
-    },
-    {
-      "title": "Python Data Science: самый быстрый курс — Stepik",
-      "category": "Data Science / ML / AI",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:00.877506"
-    },
-    {
-      "title": "QR-разложение Python.Грама-Шмидта. Математика машинного обучения",
-      "category": "Data Science / ML / AI",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:00.881053"
-    },
-    {
-      "title": "Асинхронный Python",
-      "category": "Python",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:00.884356"
-    },
-    {
-      "title": "Библиотеки Python для Data Science — Stepik",
-      "category": "Data Science / ML / AI",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:00.887759"
-    },
-    {
-      "title": "Python: самый быстрый курс — Stepik",
-      "category": "Python",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:00.890840"
-    },
-    {
-      "title": "Анализ данных Python: с 0 до уверенного бизнес-пользователя — Stepik",
-      "category": "Python",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:00.894224"
-    },
-    {
-      "title": "Python. Часть 1 (Базовый python и условные операторы) — Stepik",
-      "category": "Python",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:00.897559"
-    },
-    {
-      "title": "Сингулярное разложение SVD Python. Математика машинного обучения",
-      "category": "Data Science / ML / AI",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:00.900963"
-    },
-    {
-      "title": "DataOPS + Python Engineer с нуля до junior",
-      "category": "Data Science / ML / AI",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:00.904340"
-    },
-    {
-      "title": "Python for Data Science: Практика Numpy — Stepik",
-      "category": "Data Science / ML / AI",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:03.414408"
-    },
-    {
-      "title": "Основы Python для анализа данных — Stepik",
-      "category": "Python",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:03.417813"
-    },
-    {
-      "title": "Анализ+Визуализация данных.Python.Pandas.EDA с Нуля.Data Science",
-      "category": "Data Science / ML / AI",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:03.421142"
-    },
-    {
-      "title": "\"Поколение Python\": базы данных и SQL",
-      "category": "Python",
-      "difficulty": "Intermediate",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:03.424083"
-    },
-    {
-      "title": "Многопроцессорный Python",
-      "category": "Python",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:03.427334"
-    },
-    {
-      "title": "Введение в Data Science: от Python до машинного обучения",
-      "category": "Data Science / ML / AI",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:03.431313"
-    },
-    {
-      "title": "Пакет курсов \"Data Scientist\": Python + SQL + Машинное обучение",
-      "category": "Data Science / ML / AI",
-      "difficulty": "Не указан",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:03.435969"
-    },
-    {
-      "title": "Роадмап деда-программиста. Python бэкенд с 0 до джуна. — Stepik",
-      "category": "Python",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:03.439445"
-    },
-    {
-      "title": "Переносим Python(FastAPI/Django/Flask/TG БОТ)на сервер.VPS+ДОМЕН — Stepik",
-      "category": "Python",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:03.442729"
-    },
-    {
-      "title": "Лучший по Python",
-      "category": "Python",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:03.445698"
-    },
-    {
-      "title": "Python. Часть 2 (Списки и циклы) — Stepik",
-      "category": "Python",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:03.452029"
-    },
-    {
-      "title": "Python Data Science: самый быстрый курс — Stepik",
-      "category": "Data Science / ML / AI",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:03.459019"
-    },
-    {
-      "title": "QR-разложение Python.Грама-Шмидта. Математика машинного обучения",
-      "category": "Data Science / ML / AI",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:03.462824"
-    },
-    {
-      "title": "Асинхронный Python",
-      "category": "Python",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:03.465897"
-    },
-    {
-      "title": "Библиотеки Python для Data Science — Stepik",
-      "category": "Data Science / ML / AI",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:03.469177"
-    },
-    {
-      "title": "Python: самый быстрый курс — Stepik",
-      "category": "Python",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:03.472256"
-    },
-    {
-      "title": "Анализ данных Python: с 0 до уверенного бизнес-пользователя — Stepik",
-      "category": "Python",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:03.475424"
-    },
-    {
-      "title": "Python. Часть 1 (Базовый python и условные операторы) — Stepik",
-      "category": "Python",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:03.478567"
-    },
-    {
-      "title": "Сингулярное разложение SVD Python. Математика машинного обучения",
-      "category": "Data Science / ML / AI",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:03.482696"
-    },
-    {
-      "title": "DataOPS + Python Engineer с нуля до junior",
-      "category": "Data Science / ML / AI",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:03.486312"
-    },
-    {
-      "title": "Python for Data Science: Практика Numpy — Stepik",
-      "category": "Data Science / ML / AI",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:06.222631"
-    },
-    {
-      "title": "Основы Python для анализа данных — Stepik",
-      "category": "Python",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:06.227775"
-    },
-    {
-      "title": "Python for Data Science: Практика Numpy — Stepik",
-      "category": "Data Science / ML / AI",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:06.366048"
-    },
-    {
-      "title": "Основы Python для анализа данных — Stepik",
-      "category": "Python",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:06.370084"
-    },
-    {
-      "title": "Анализ+Визуализация данных.Python.Pandas.EDA с Нуля.Data Science",
-      "category": "Data Science / ML / AI",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:06.373819"
-    },
-    {
-      "title": "\"Поколение Python\": базы данных и SQL",
-      "category": "Python",
-      "difficulty": "Intermediate",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:06.377368"
-    },
-    {
-      "title": "Многопроцессорный Python",
-      "category": "Python",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:06.382621"
-    },
-    {
-      "title": "Введение в Data Science: от Python до машинного обучения",
-      "category": "Data Science / ML / AI",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:06.386097"
-    },
-    {
-      "title": "Пакет курсов \"Data Scientist\": Python + SQL + Машинное обучение",
-      "category": "Data Science / ML / AI",
-      "difficulty": "Не указан",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:06.390061"
-    },
-    {
-      "title": "Роадмап деда-программиста. Python бэкенд с 0 до джуна. — Stepik",
-      "category": "Python",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:06.392931"
-    },
-    {
-      "title": "Переносим Python(FastAPI/Django/Flask/TG БОТ)на сервер.VPS+ДОМЕН — Stepik",
-      "category": "Python",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:06.396735"
-    },
-    {
-      "title": "Лучший по Python",
-      "category": "Python",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:06.399995"
-    },
-    {
-      "title": "Python. Часть 2 (Списки и циклы) — Stepik",
-      "category": "Python",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:06.403380"
-    },
-    {
-      "title": "Python Data Science: самый быстрый курс — Stepik",
-      "category": "Data Science / ML / AI",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:06.406489"
-    },
-    {
-      "title": "QR-разложение Python.Грама-Шмидта. Математика машинного обучения",
-      "category": "Data Science / ML / AI",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:06.410021"
-    },
-    {
-      "title": "Асинхронный Python",
-      "category": "Python",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:06.418693"
-    },
-    {
-      "title": "Библиотеки Python для Data Science — Stepik",
-      "category": "Data Science / ML / AI",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:06.425003"
-    },
-    {
-      "title": "Python: самый быстрый курс — Stepik",
-      "category": "Python",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:06.440691"
-    },
-    {
-      "title": "Анализ данных Python: с 0 до уверенного бизнес-пользователя — Stepik",
-      "category": "Python",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:06.458650"
-    },
-    {
-      "title": "Python. Часть 1 (Базовый python и условные операторы) — Stepik",
-      "category": "Python",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:06.480708"
-    },
-    {
-      "title": "Сингулярное разложение SVD Python. Математика машинного обучения",
-      "category": "Data Science / ML / AI",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:06.495176"
-    },
-    {
-      "title": "DataOPS + Python Engineer с нуля до junior",
-      "category": "Data Science / ML / AI",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:06.498990"
-    },
-    {
-      "title": "Python for Data Science: Практика Numpy — Stepik",
-      "category": "Data Science / ML / AI",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:07.504648"
-    },
-    {
-      "title": "Основы Python для анализа данных — Stepik",
-      "category": "Python",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:07.509533"
-    },
-    {
-      "title": "Python for Data Science: Практика Numpy — Stepik",
-      "category": "Data Science / ML / AI",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:07.653403"
-    },
-    {
-      "title": "Основы Python для анализа данных — Stepik",
-      "category": "Python",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:07.656921"
-    },
-    {
-      "title": "Анализ+Визуализация данных.Python.Pandas.EDA с Нуля.Data Science",
-      "category": "Data Science / ML / AI",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:07.662553"
-    },
-    {
-      "title": "\"Поколение Python\": базы данных и SQL",
-      "category": "Python",
-      "difficulty": "Intermediate",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:07.670877"
-    },
-    {
-      "title": "Многопроцессорный Python",
-      "category": "Python",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:07.674361"
-    },
-    {
-      "title": "Введение в Data Science: от Python до машинного обучения",
-      "category": "Data Science / ML / AI",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:07.677912"
-    },
-    {
-      "title": "Пакет курсов \"Data Scientist\": Python + SQL + Машинное обучение",
-      "category": "Data Science / ML / AI",
-      "difficulty": "Не указан",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:07.681380"
-    },
-    {
-      "title": "Роадмап деда-программиста. Python бэкенд с 0 до джуна. — Stepik",
-      "category": "Python",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:07.684506"
-    },
-    {
-      "title": "Переносим Python(FastAPI/Django/Flask/TG БОТ)на сервер.VPS+ДОМЕН — Stepik",
-      "category": "Python",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:07.687761"
-    },
-    {
-      "title": "Лучший по Python",
-      "category": "Python",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:07.690708"
-    },
-    {
-      "title": "Python. Часть 2 (Списки и циклы) — Stepik",
-      "category": "Python",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:07.694370"
-    },
-    {
-      "title": "Python Data Science: самый быстрый курс — Stepik",
-      "category": "Data Science / ML / AI",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:07.697706"
-    },
-    {
-      "title": "QR-разложение Python.Грама-Шмидта. Математика машинного обучения",
-      "category": "Data Science / ML / AI",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:07.701498"
-    },
-    {
-      "title": "Асинхронный Python",
-      "category": "Python",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:07.704559"
-    },
-    {
-      "title": "Библиотеки Python для Data Science — Stepik",
-      "category": "Data Science / ML / AI",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:07.709740"
-    },
-    {
-      "title": "Python: самый быстрый курс — Stepik",
-      "category": "Python",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:07.715319"
-    },
-    {
-      "title": "Анализ данных Python: с 0 до уверенного бизнес-пользователя — Stepik",
-      "category": "Python",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:07.718723"
-    },
-    {
-      "title": "Python. Часть 1 (Базовый python и условные операторы) — Stepik",
-      "category": "Python",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:07.722029"
-    },
-    {
-      "title": "Сингулярное разложение SVD Python. Математика машинного обучения",
-      "category": "Data Science / ML / AI",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:07.725255"
-    },
-    {
-      "title": "DataOPS + Python Engineer с нуля до junior",
-      "category": "Data Science / ML / AI",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:07.728570"
-    },
-    {
-      "title": "Python for Data Science: Практика Numpy — Stepik",
-      "category": "Data Science / ML / AI",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:09.241672"
-    },
-    {
-      "title": "Основы Python для анализа данных — Stepik",
-      "category": "Python",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:09.245456"
-    },
-    {
-      "title": "Анализ+Визуализация данных.Python.Pandas.EDA с Нуля.Data Science",
-      "category": "Data Science / ML / AI",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:09.248875"
-    },
-    {
-      "title": "\"Поколение Python\": базы данных и SQL",
-      "category": "Python",
-      "difficulty": "Intermediate",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:09.251859"
-    },
-    {
-      "title": "Многопроцессорный Python",
-      "category": "Python",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:09.255334"
-    },
-    {
-      "title": "Введение в Data Science: от Python до машинного обучения",
-      "category": "Data Science / ML / AI",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:09.259127"
-    },
-    {
-      "title": "Пакет курсов \"Data Scientist\": Python + SQL + Машинное обучение",
-      "category": "Data Science / ML / AI",
-      "difficulty": "Не указан",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:09.263449"
-    },
-    {
-      "title": "Роадмап деда-программиста. Python бэкенд с 0 до джуна. — Stepik",
-      "category": "Python",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:09.268126"
-    },
-    {
-      "title": "Переносим Python(FastAPI/Django/Flask/TG БОТ)на сервер.VPS+ДОМЕН — Stepik",
-      "category": "Python",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:09.271446"
-    },
-    {
-      "title": "Лучший по Python",
-      "category": "Python",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:09.274277"
-    },
-    {
-      "title": "Python. Часть 2 (Списки и циклы) — Stepik",
-      "category": "Python",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:09.277347"
-    },
-    {
-      "title": "Python Data Science: самый быстрый курс — Stepik",
-      "category": "Data Science / ML / AI",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:09.282215"
-    },
-    {
-      "title": "QR-разложение Python.Грама-Шмидта. Математика машинного обучения",
-      "category": "Data Science / ML / AI",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:09.287309"
-    },
-    {
-      "title": "Асинхронный Python",
-      "category": "Python",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:09.290599"
-    },
-    {
-      "title": "Библиотеки Python для Data Science — Stepik",
-      "category": "Data Science / ML / AI",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:09.293939"
-    },
-    {
-      "title": "Python: самый быстрый курс — Stepik",
-      "category": "Python",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:09.297243"
-    },
-    {
-      "title": "Анализ данных Python: с 0 до уверенного бизнес-пользователя — Stepik",
-      "category": "Python",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:09.301562"
-    },
-    {
-      "title": "Python. Часть 1 (Базовый python и условные операторы) — Stepik",
-      "category": "Python",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:09.305372"
-    },
-    {
-      "title": "Сингулярное разложение SVD Python. Математика машинного обучения",
-      "category": "Data Science / ML / AI",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:09.309014"
-    },
-    {
-      "title": "DataOPS + Python Engineer с нуля до junior",
-      "category": "Data Science / ML / AI",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:09.312677"
-    },
-    {
-      "title": "Python for Data Science: Практика Numpy — Stepik",
-      "category": "Data Science / ML / AI",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:11.388095"
-    },
-    {
-      "title": "Основы Python для анализа данных — Stepik",
-      "category": "Python",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:11.391676"
-    },
-    {
-      "title": "Анализ+Визуализация данных.Python.Pandas.EDA с Нуля.Data Science",
-      "category": "Data Science / ML / AI",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:11.395130"
-    },
-    {
-      "title": "\"Поколение Python\": базы данных и SQL",
-      "category": "Python",
-      "difficulty": "Intermediate",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:11.399123"
-    },
-    {
-      "title": "Многопроцессорный Python",
-      "category": "Python",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:11.402412"
-    },
-    {
-      "title": "Введение в Data Science: от Python до машинного обучения",
-      "category": "Data Science / ML / AI",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:11.405535"
-    },
-    {
-      "title": "Пакет курсов \"Data Scientist\": Python + SQL + Машинное обучение",
-      "category": "Data Science / ML / AI",
-      "difficulty": "Не указан",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:11.409464"
-    },
-    {
-      "title": "Роадмап деда-программиста. Python бэкенд с 0 до джуна. — Stepik",
-      "category": "Python",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:11.412760"
-    },
-    {
-      "title": "Переносим Python(FastAPI/Django/Flask/TG БОТ)на сервер.VPS+ДОМЕН — Stepik",
-      "category": "Python",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:11.416020"
-    },
-    {
-      "title": "Лучший по Python",
-      "category": "Python",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:11.418926"
-    },
-    {
-      "title": "Python. Часть 2 (Списки и циклы) — Stepik",
-      "category": "Python",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:11.422435"
-    },
-    {
-      "title": "Python Data Science: самый быстрый курс — Stepik",
-      "category": "Data Science / ML / AI",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:11.425854"
-    },
-    {
-      "title": "QR-разложение Python.Грама-Шмидта. Математика машинного обучения",
-      "category": "Data Science / ML / AI",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:11.429356"
-    },
-    {
-      "title": "Асинхронный Python",
-      "category": "Python",
-      "difficulty": "Beginner",
-      "language": "ru",
-      "source": "stepik",
-      "ts": "2026-06-12T14:30:11.433102"
-    },
-    {
       "title": "Библиотеки Python для Data Science — Stepik",
       "category": "Data Science / ML / AI",
       "difficulty": "Beginner",
@@ -1601,6 +377,1230 @@
       "language": "ru",
       "source": "stepik",
       "ts": "2026-06-12T14:30:22.095005"
+    },
+    {
+      "title": "\"Поколение Python\": курс для профессионалов",
+      "category": "Python",
+      "difficulty": "Advanced",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:02:55.328785"
+    },
+    {
+      "title": "Основы Python для исследований и анализа данных",
+      "category": "Python",
+      "difficulty": "Beginner",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:02:55.331813"
+    },
+    {
+      "title": "Python - Модуль 3 (Библиотеки и файлы)",
+      "category": "Python",
+      "difficulty": "Beginner",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:02:55.334780"
+    },
+    {
+      "title": "\"Поколение Python\": ООП",
+      "category": "Python",
+      "difficulty": "Intermediate",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:02:55.338103"
+    },
+    {
+      "title": "Python: анализ данных с Pandas",
+      "category": "Python",
+      "difficulty": "Intermediate",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:02:55.340914"
+    },
+    {
+      "title": "\"Поколение Python\": алгоритмы и структуры данных для начинающих",
+      "category": "Python",
+      "difficulty": "Beginner",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:02:55.343692"
+    },
+    {
+      "title": "Лучший по Python. Часть 3",
+      "category": "Python",
+      "difficulty": "Intermediate",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:02:55.346539"
+    },
+    {
+      "title": "Python тренажер — Stepik",
+      "category": "Python",
+      "difficulty": "Intermediate",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:02:55.349482"
+    },
+    {
+      "title": "109 задач по python — Stepik",
+      "category": "Python",
+      "difficulty": "Beginner",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:02:55.352341"
+    },
+    {
+      "title": "Пакет 3в1: Асинхронный, Многопоточный и Многопроцессорный Python — Stepik",
+      "category": "Python",
+      "difficulty": "Intermediate",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:02:55.355400"
+    },
+    {
+      "title": "Python — Stepik",
+      "category": "Python",
+      "difficulty": "Beginner",
+      "language": "en",
+      "source": "stepik",
+      "ts": "2026-06-14T15:02:55.358314"
+    },
+    {
+      "title": "Многопоточный Python",
+      "category": "Python",
+      "difficulty": "Beginner",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:02:55.361025"
+    },
+    {
+      "title": "Полный Курс Python 3: от Новичка до Мастера (Питон, Пайтон)",
+      "category": "Python",
+      "difficulty": "Beginner",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:02:55.364119"
+    },
+    {
+      "title": "Профессия Python-разработчик — Stepik",
+      "category": "Python",
+      "difficulty": "Beginner",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:02:55.366817"
+    },
+    {
+      "title": "Подготовка к Python собеседованию — Stepik",
+      "category": "Python",
+      "difficulty": "Intermediate",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:02:55.369803"
+    },
+    {
+      "title": "Python в нескучных примерах (50) — Stepik",
+      "category": "Python",
+      "difficulty": "Beginner",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:02:55.372734"
+    },
+    {
+      "title": "Python. Часть 3 (Словари и обработка наборов данных) — Stepik",
+      "category": "Python",
+      "difficulty": "Beginner",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:02:55.375632"
+    },
+    {
+      "title": "Python - Модуль 4 (ООП) — Stepik",
+      "category": "Python",
+      "difficulty": "Intermediate",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:02:55.378414"
+    },
+    {
+      "title": "Полный курс Python для начинающих + ООП",
+      "category": "Python",
+      "difficulty": "Beginner",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:02:55.381368"
+    },
+    {
+      "title": "Кинопоиск на Django. Python, HTML, CSS, Bootstrap, JavaScript. — Stepik",
+      "category": "Python",
+      "difficulty": "Intermediate",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:02:55.384278"
+    },
+    {
+      "title": "Осознанный Python — ООП",
+      "category": "Python",
+      "difficulty": "Intermediate",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:02.936031"
+    },
+    {
+      "title": "Python. Генетический алгоритм — Stepik",
+      "category": "Python",
+      "difficulty": "Beginner",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:02.941529"
+    },
+    {
+      "title": "Игра \"Змейка\" за час: Python + Tkinter (GUI)",
+      "category": "Python",
+      "difficulty": "Intermediate",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:02.948225"
+    },
+    {
+      "title": "Python - Модуль 2 (Функции)",
+      "category": "Python",
+      "difficulty": "Не указан",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:02.952179"
+    },
+    {
+      "title": "Пакет 3в1: WEB Парсинг, Асинхронный и Многопоточный Python — Stepik",
+      "category": "Python",
+      "difficulty": "Intermediate",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:02.956115"
+    },
+    {
+      "title": "Лучший по Python. Часть 4 — Stepik",
+      "category": "Python",
+      "difficulty": "Intermediate",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:02.961695"
+    },
+    {
+      "title": "Топ 100 вопросов с реальных собеседований по Python (+тесты) — Stepik",
+      "category": "Python",
+      "difficulty": "Intermediate",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:02.966667"
+    },
+    {
+      "title": "Курс Python-разработчик с Нуля до Open Source:Линтеры.Git.Github — Stepik",
+      "category": "Python",
+      "difficulty": "Beginner",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:02.970249"
+    },
+    {
+      "title": "Python. Часть 1 (Базовый python и условные операторы) — Stepik",
+      "category": "Python",
+      "difficulty": "Beginner",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:02.974066"
+    },
+    {
+      "title": "Очень продвинутые навыки программирования Python — Stepik",
+      "category": "Python",
+      "difficulty": "Advanced",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:02.977974"
+    },
+    {
+      "title": "Метрикум: расчёт и применение (SQL&Python) — Stepik",
+      "category": "Python",
+      "difficulty": "Intermediate",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:02.981413"
+    },
+    {
+      "title": "Python. Часть 4 (Функции, замыкание и декораторы)",
+      "category": "Python",
+      "difficulty": "Beginner",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:02.985008"
+    },
+    {
+      "title": "Задачник Python",
+      "category": "Python",
+      "difficulty": "Beginner",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:02.988976"
+    },
+    {
+      "title": "\"Поколение Python\": профи + ООП + SQL + алгоритмы для начинающих",
+      "category": "Python",
+      "difficulty": "Intermediate",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:02.993608"
+    },
+    {
+      "title": "\"Поколение Python\": профи + ООП + SQL",
+      "category": "Python",
+      "difficulty": "Не указан",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:02.997810"
+    },
+    {
+      "title": "\"Поколение Python\": курс для профессионалов",
+      "category": "Python",
+      "difficulty": "Advanced",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:03.001397"
+    },
+    {
+      "title": "Python [START] — Stepik",
+      "category": "Python",
+      "difficulty": "Beginner",
+      "language": "en",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:03.006555"
+    },
+    {
+      "title": "Практический Тренажер по Python",
+      "category": "Python",
+      "difficulty": "Intermediate",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:03.010305"
+    },
+    {
+      "title": "\"Поколение Python\": базы данных и SQL",
+      "category": "Python",
+      "difficulty": "Intermediate",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:03.013921"
+    },
+    {
+      "title": "Простая Линейная Регрессия Python. Математика машинного обучения",
+      "category": "Data Science / ML / AI",
+      "difficulty": "Beginner",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:03.017159"
+    },
+    {
+      "title": "Многопроцессорный Python",
+      "category": "Python",
+      "difficulty": "Beginner",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:03.020260"
+    },
+    {
+      "title": "Продуктовая аналитика - Python — Stepik",
+      "category": "Python",
+      "difficulty": "Intermediate",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:03.024620"
+    },
+    {
+      "title": "Пакет 2в1: Асинхронный и Многопоточный Python — Stepik",
+      "category": "Python",
+      "difficulty": "Intermediate",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:03.028961"
+    },
+    {
+      "title": "Data Science с нуля: Python и машинное обучение для начинающих — Stepik",
+      "category": "Data Science / ML / AI",
+      "difficulty": "Beginner",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:03.032743"
+    },
+    {
+      "title": "Python Exclusive — Stepik",
+      "category": "Python",
+      "difficulty": "Intermediate",
+      "language": "en",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:03.036364"
+    },
+    {
+      "title": "Язык Python в биомедицине",
+      "category": "Python",
+      "difficulty": "Не указан",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:03.040543"
+    },
+    {
+      "title": "Python. Алгоритмы фильтрации",
+      "category": "Python",
+      "difficulty": "Beginner",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:03.044784"
+    },
+    {
+      "title": "Осознанный Python – Пиши красиво с PEP 8 — Stepik",
+      "category": "Python",
+      "difficulty": "Intermediate",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:03.048411"
+    },
+    {
+      "title": "\"Поколение Python\": профи + ООП — Stepik",
+      "category": "Python",
+      "difficulty": "Не указан",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:03.054667"
+    },
+    {
+      "title": "Курс Python-разработчик с Нуля до Open Source:Линтеры.Git.Github",
+      "category": "Python",
+      "difficulty": "Beginner",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:03.060514"
+    },
+    {
+      "title": "Python в научных расчетах — Stepik",
+      "category": "Python",
+      "difficulty": "Beginner",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:03.065015"
+    },
+    {
+      "title": "Advanced Excel: поиск решений, аналитика и прогнозирование — Stepik",
+      "category": "Excel",
+      "difficulty": "Intermediate",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:10.126818"
+    },
+    {
+      "title": "Сводные таблицы в Excel. С нуля до анализа данных",
+      "category": "Excel",
+      "difficulty": "Beginner",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:10.130654"
+    },
+    {
+      "title": "Диагностика уровня владения Excel — Stepik",
+      "category": "Excel",
+      "difficulty": "Beginner",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:10.136641"
+    },
+    {
+      "title": "Экспресс курс Excel. Секреты эффективной работы",
+      "category": "Excel",
+      "difficulty": "Intermediate",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:10.142218"
+    },
+    {
+      "title": "Power Query и сводные отчеты в MS Excel",
+      "category": "Excel",
+      "difficulty": "Beginner",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:10.146498"
+    },
+    {
+      "title": "Логические функции в Excel",
+      "category": "Excel",
+      "difficulty": "Intermediate",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:10.150005"
+    },
+    {
+      "title": "Мощный старт в анализе данных с Excel — Stepik",
+      "category": "Excel",
+      "difficulty": "Beginner",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:10.154380"
+    },
+    {
+      "title": "Тестовое задание на знание Excel при собеседовании — Stepik",
+      "category": "Excel",
+      "difficulty": "Intermediate",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:10.162442"
+    },
+    {
+      "title": "Автоматизация в Excel c помощью сводных таблиц",
+      "category": "Excel",
+      "difficulty": "Beginner",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:10.168033"
+    },
+    {
+      "title": "Полный курс Excel + Power Query: от новичка до эксперта — Stepik",
+      "category": "Excel",
+      "difficulty": "Не указан",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:10.172289"
+    },
+    {
+      "title": "Магия сводных таблиц Excel — Stepik",
+      "category": "Excel",
+      "difficulty": "Intermediate",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:10.176249"
+    },
+    {
+      "title": "Excel для административных сотрудников. Оптимизация работы — Stepik",
+      "category": "Excel",
+      "difficulty": "Beginner",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:10.181092"
+    },
+    {
+      "title": "Power Query в Excel — Stepik",
+      "category": "Excel",
+      "difficulty": "Intermediate",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:10.185428"
+    },
+    {
+      "title": "Excel: от новичка до аналитика",
+      "category": "Excel",
+      "difficulty": "Beginner",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:10.190752"
+    },
+    {
+      "title": "Python для работы с Excel и PDF",
+      "category": "Excel",
+      "difficulty": "Beginner",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:10.195242"
+    },
+    {
+      "title": "Комплекс инструментов для бизнес-анализа. MS Excel",
+      "category": "Excel",
+      "difficulty": "Не указан",
+      "language": "ru",
+      "source": "openedu",
+      "ts": "2026-06-14T15:03:10.199707"
+    },
+    {
+      "title": "Продвинутые навыки работы в Excel — Stepik",
+      "category": "Excel",
+      "difficulty": "Intermediate",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:10.203358"
+    },
+    {
+      "title": "Альтернатива Excel: работа с данными в KNIME",
+      "category": "Excel",
+      "difficulty": "Intermediate",
+      "language": "ru",
+      "source": "udemy",
+      "ts": "2026-06-14T15:03:10.206748"
+    },
+    {
+      "title": "Визуализация данных в Excel (графики и диаграммы)",
+      "category": "Excel",
+      "difficulty": "Intermediate",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:10.211059"
+    },
+    {
+      "title": "Excel: функции для работы с текстом, датами и временем — Stepik",
+      "category": "Excel",
+      "difficulty": "Intermediate",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:10.215551"
+    },
+    {
+      "title": "Оконные функции SQL",
+      "category": "SQL",
+      "difficulty": "Не указан",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:10.219944"
+    },
+    {
+      "title": "Уверенный пользователь MS Excel, Google Sheets, Google Forms — Stepik",
+      "category": "Excel",
+      "difficulty": "Beginner",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:10.225409"
+    },
+    {
+      "title": "Excel для начинающих: Первые шаги и функция ВПР (VLOOKUP)",
+      "category": "Excel",
+      "difficulty": "Beginner",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:10.229387"
+    },
+    {
+      "title": "Бизнес аналитик в IT с Нуля до Специалиста",
+      "category": "Data Science / ML / AI",
+      "difficulty": "Beginner",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:10.233205"
+    },
+    {
+      "title": "Microsoft Excel: Ultimate Excel from Beginner to Advanced",
+      "category": "Excel",
+      "difficulty": "Intermediate",
+      "language": "en",
+      "source": "udemy",
+      "ts": "2026-06-14T15:03:10.237355"
+    },
+    {
+      "title": "Python для Excel с библиотекой openpyxl",
+      "category": "Excel",
+      "difficulty": "Intermediate",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:10.243372"
+    },
+    {
+      "title": "Microsoft Excel for Data Analytics",
+      "category": "Excel",
+      "difficulty": "Beginner",
+      "language": "en",
+      "source": "udemy",
+      "ts": "2026-06-14T15:03:10.247012"
+    },
+    {
+      "title": "Habilidades de Excel Aplicadas a Negocios: Nivel Avanzado",
+      "category": "Excel",
+      "difficulty": "Intermediate",
+      "language": "en",
+      "source": "coursera",
+      "ts": "2026-06-14T15:03:10.250183"
+    },
+    {
+      "title": "A Comprehensive Excel Masterclass",
+      "category": "Excel",
+      "difficulty": "Intermediate",
+      "language": "en",
+      "source": "coursera",
+      "ts": "2026-06-14T15:03:10.253909"
+    },
+    {
+      "title": "Формулы и функции — Курс MS Excel для начинающих — Stepik",
+      "category": "Excel",
+      "difficulty": "Beginner",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:10.257869"
+    },
+    {
+      "title": "Excel для бухгалтеров, экономистов и финансовых аналитиков — Stepik",
+      "category": "Excel",
+      "difficulty": "Beginner",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:10.263432"
+    },
+    {
+      "title": "Анализ данных с нуля: визуализация, корреляции, практика — Stepik",
+      "category": "Python",
+      "difficulty": "Beginner",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:12.399394"
+    },
+    {
+      "title": "Базовая аналитика — Stepik",
+      "category": "Data Science / ML / AI",
+      "difficulty": "Beginner",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:12.403824"
+    },
+    {
+      "title": "Анализ данных: финальный проект — Stepik",
+      "category": "Data Science / ML / AI",
+      "difficulty": "Не указан",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:12.408225"
+    },
+    {
+      "title": "Бизнес аналитик в IT с Нуля до Специалиста",
+      "category": "Data Science / ML / AI",
+      "difficulty": "Beginner",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:12.411659"
+    },
+    {
+      "title": "Data Science с Глебом Михайловым",
+      "category": "Data Science / ML / AI",
+      "difficulty": "Beginner",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:12.414993"
+    },
+    {
+      "title": "Системный аналитик с нуля до старта",
+      "category": "Data Science / ML / AI",
+      "difficulty": "Beginner",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:12.418350"
+    },
+    {
+      "title": "Основы статистики. Часть 2 — Stepik",
+      "category": "Data Science / ML / AI",
+      "difficulty": "Intermediate",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:12.422165"
+    },
+    {
+      "title": "Анализ данных просто и доступно. — Stepik",
+      "category": "Data Science / ML / AI",
+      "difficulty": "Beginner",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:12.425194"
+    },
+    {
+      "title": "Аналитика и Data Science для менеджеров и гуманитариев",
+      "category": "Data Science / ML / AI",
+      "difficulty": "Beginner",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:12.429293"
+    },
+    {
+      "title": "Анализ данных в KNIME — Stepik",
+      "category": "Data Science / ML / AI",
+      "difficulty": "Beginner",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:12.432630"
+    },
+    {
+      "title": "Системный аналитик: вход в IT с нуля. БАЗА — Stepik",
+      "category": "Data Science / ML / AI",
+      "difficulty": "Beginner",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:12.435961"
+    },
+    {
+      "title": "Математический анализ: часть 2 (ВСЕ о пределах)",
+      "category": "Data Science / ML / AI",
+      "difficulty": "Beginner",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:12.439283"
+    },
+    {
+      "title": "Основы M в Power Query для бизнес-пользователей — Stepik",
+      "category": "Data Science / ML / AI",
+      "difficulty": "Intermediate",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:12.443160"
+    },
+    {
+      "title": "Анализ данных 2024-2025 — Stepik",
+      "category": "Python",
+      "difficulty": "Intermediate",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:12.446862"
+    },
+    {
+      "title": "Анализ данных в R. Часть 2",
+      "category": "Data Science / ML / AI",
+      "difficulty": "Intermediate",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:12.450608"
+    },
+    {
+      "title": "Системный аналитик с нуля. Базовые знания",
+      "category": "Data Science / ML / AI",
+      "difficulty": "Beginner",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:12.453809"
+    },
+    {
+      "title": "Введение в статистику и проверку гипотез — Stepik",
+      "category": "Data Science / ML / AI",
+      "difficulty": "Beginner",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:12.458608"
+    },
+    {
+      "title": "Advanced\\Расширенный Power Query для бизнес-пользователей — Stepik",
+      "category": "Data Science / ML / AI",
+      "difficulty": "Intermediate",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:12.462262"
+    },
+    {
+      "title": "Подготовка к интенсиву «Анализ данных NGS» — Stepik",
+      "category": "Data Science / ML / AI",
+      "difficulty": "Не указан",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:12.466164"
+    },
+    {
+      "title": "Представление данных: основы — Stepik",
+      "category": "Data Science / ML / AI",
+      "difficulty": "Intermediate",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:12.469799"
+    },
+    {
+      "title": "Основы статистики. Часть 3",
+      "category": "Data Science / ML / AI",
+      "difficulty": "Не указан",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:12.474029"
+    },
+    {
+      "title": "Анализ данных Python: с 0 до уверенного бизнес-пользователя — Stepik",
+      "category": "Python",
+      "difficulty": "Beginner",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:12.477677"
+    },
+    {
+      "title": "Построение выводов по данным — Stepik",
+      "category": "Data Science / ML / AI",
+      "difficulty": "Не указан",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:12.482226"
+    },
+    {
+      "title": "Анализ данных в принятии решений — Stepik",
+      "category": "Data Science / ML / AI",
+      "difficulty": "Beginner",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:12.485903"
+    },
+    {
+      "title": "Математика для аналитиков. Специализация (Перельман) — Stepik",
+      "category": "Data Science / ML / AI",
+      "difficulty": "Intermediate",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:12.490409"
+    },
+    {
+      "title": "Метрикум: расчёт и применение (SQL&Python) — Stepik",
+      "category": "Python",
+      "difficulty": "Intermediate",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:12.494024"
+    },
+    {
+      "title": "Аналитика данных: MS Power BI, оконные функции",
+      "category": "Data Science / ML / AI",
+      "difficulty": "Beginner",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:12.497884"
+    },
+    {
+      "title": "Анализ данных в R",
+      "category": "Data Science / ML / AI",
+      "difficulty": "Beginner",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:12.501403"
+    },
+    {
+      "title": "АНАЛИЗ АССОРТИМЕНТА МАКСИМУМ (АВС-XYZ, оборачиваемость, скидки)",
+      "category": "Data Science / ML / AI",
+      "difficulty": "Beginner",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:12.504823"
+    },
+    {
+      "title": "Анализ данных с Pandas",
+      "category": "Python",
+      "difficulty": "Intermediate",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:12.508710"
+    },
+    {
+      "title": "Статистический анализ данных в пакете STATISTICA — Stepik",
+      "category": "Data Science / ML / AI",
+      "difficulty": "Beginner",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:12.513391"
+    },
+    {
+      "title": "Deep Learning (семестр 1, осень 2024)",
+      "category": "Data Science / ML / AI",
+      "difficulty": "Intermediate",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:53.226723"
+    },
+    {
+      "title": "Deep Learning (семестр 1, весна 2025)",
+      "category": "Data Science / ML / AI",
+      "difficulty": "Intermediate",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:53.230166"
+    },
+    {
+      "title": "Deep Learning (семестр 2, осень 2024) — Stepik",
+      "category": "Data Science / ML / AI",
+      "difficulty": "Advanced",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:53.233889"
+    },
+    {
+      "title": "Продвинутые методы глубинного обучения",
+      "category": "Data Science / ML / AI",
+      "difficulty": "Intermediate",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:53.237426"
+    },
+    {
+      "title": "Deep Learning for Object Detection with Python and PyTorch",
+      "category": "Data Science / ML / AI",
+      "difficulty": "Intermediate",
+      "language": "en",
+      "source": "udemy",
+      "ts": "2026-06-14T15:03:53.242013"
+    },
+    {
+      "title": "[АРХИВ] Deep Learning (семестр 1, весна 2023): продвинутый поток",
+      "category": "Data Science / ML / AI",
+      "difficulty": "Intermediate",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:53.246215"
+    },
+    {
+      "title": "Нейронные сети",
+      "category": "Data Science / ML / AI",
+      "difficulty": "Intermediate",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:53.249914"
+    },
+    {
+      "title": "Deep Learning (семестр 2, осень 2025)",
+      "category": "Data Science / ML / AI",
+      "difficulty": "Intermediate",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:53.254030"
+    },
+    {
+      "title": "[АРХИВ] Deep Learning (семестр 1, весна 2024)",
+      "category": "Data Science / ML / AI",
+      "difficulty": "Intermediate",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:53.257411"
+    },
+    {
+      "title": "Алгоритмы Машинного обучения с нуля — Stepik",
+      "category": "Data Science / ML / AI",
+      "difficulty": "Intermediate",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:53.261849"
+    },
+    {
+      "title": "Машинное обучение: из грязи в Kaggle-князи",
+      "category": "Data Science / ML / AI",
+      "difficulty": "Advanced",
+      "language": "ru",
+      "source": "udemy",
+      "ts": "2026-06-14T15:03:53.265697"
+    },
+    {
+      "title": "Практический Deep Learning — Stepik",
+      "category": "Data Science / ML / AI",
+      "difficulty": "Intermediate",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:53.269106"
+    },
+    {
+      "title": "Нейронные сети: Глубокое обучение с нуля",
+      "category": "Data Science / ML / AI",
+      "difficulty": "Beginner",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:53.272524"
+    },
+    {
+      "title": "Deep Learning (семестр 2, весна 2025) — Stepik",
+      "category": "Data Science / ML / AI",
+      "difficulty": "Intermediate",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:53.276086"
+    },
+    {
+      "title": "Deep Learning in Practice III: Face Recognition",
+      "category": "Data Science / ML / AI",
+      "difficulty": "Beginner",
+      "language": "en",
+      "source": "udemy",
+      "ts": "2026-06-14T15:03:53.279965"
+    },
+    {
+      "title": "Машинное обучение",
+      "category": "Data Science / ML / AI",
+      "difficulty": "Beginner",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:53.285516"
+    },
+    {
+      "title": "Deep Learning for NLP - Part 6",
+      "category": "Data Science / ML / AI",
+      "difficulty": "Intermediate",
+      "language": "en",
+      "source": "udemy",
+      "ts": "2026-06-14T15:03:53.290096"
+    },
+    {
+      "title": "Deep Learning in Finance",
+      "category": "Data Science / ML / AI",
+      "difficulty": "Intermediate",
+      "language": "en",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:53.293593"
+    },
+    {
+      "title": "Deep Learning: Introduction to GANs",
+      "category": "Data Science / ML / AI",
+      "difficulty": "Beginner",
+      "language": "en",
+      "source": "udemy",
+      "ts": "2026-06-14T15:03:53.297066"
+    },
+    {
+      "title": "Deep Learning (семестр 1, осень 2025) — Stepik",
+      "category": "Data Science / ML / AI",
+      "difficulty": "Intermediate",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:03:53.301576"
+    },
+    {
+      "title": "Deep Learning (семестр 1, осень 2024)",
+      "category": "Data Science / ML / AI",
+      "difficulty": "Intermediate",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:04:17.867090"
+    },
+    {
+      "title": "Deep Learning (семестр 1, весна 2025)",
+      "category": "Data Science / ML / AI",
+      "difficulty": "Intermediate",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:04:17.871635"
+    },
+    {
+      "title": "Deep Learning (семестр 2, осень 2024) — Stepik",
+      "category": "Data Science / ML / AI",
+      "difficulty": "Advanced",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:04:17.877409"
+    },
+    {
+      "title": "Продвинутые методы глубинного обучения",
+      "category": "Data Science / ML / AI",
+      "difficulty": "Intermediate",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:04:17.884617"
+    },
+    {
+      "title": "Deep Learning for Object Detection with Python and PyTorch",
+      "category": "Data Science / ML / AI",
+      "difficulty": "Intermediate",
+      "language": "en",
+      "source": "udemy",
+      "ts": "2026-06-14T15:04:17.889871"
+    },
+    {
+      "title": "[АРХИВ] Deep Learning (семестр 1, весна 2023): продвинутый поток",
+      "category": "Data Science / ML / AI",
+      "difficulty": "Intermediate",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:04:17.893693"
+    },
+    {
+      "title": "Нейронные сети",
+      "category": "Data Science / ML / AI",
+      "difficulty": "Intermediate",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:04:17.897380"
+    },
+    {
+      "title": "Deep Learning (семестр 2, осень 2025)",
+      "category": "Data Science / ML / AI",
+      "difficulty": "Intermediate",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:04:17.901509"
+    },
+    {
+      "title": "[АРХИВ] Deep Learning (семестр 1, весна 2024)",
+      "category": "Data Science / ML / AI",
+      "difficulty": "Intermediate",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:04:17.905645"
+    },
+    {
+      "title": "Алгоритмы Машинного обучения с нуля — Stepik",
+      "category": "Data Science / ML / AI",
+      "difficulty": "Intermediate",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:04:17.909352"
+    },
+    {
+      "title": "Машинное обучение: из грязи в Kaggle-князи",
+      "category": "Data Science / ML / AI",
+      "difficulty": "Advanced",
+      "language": "ru",
+      "source": "udemy",
+      "ts": "2026-06-14T15:04:17.913175"
+    },
+    {
+      "title": "Практический Deep Learning — Stepik",
+      "category": "Data Science / ML / AI",
+      "difficulty": "Intermediate",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:04:17.916691"
+    },
+    {
+      "title": "Нейронные сети: Глубокое обучение с нуля",
+      "category": "Data Science / ML / AI",
+      "difficulty": "Beginner",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:04:17.920307"
+    },
+    {
+      "title": "Deep Learning (семестр 2, весна 2025) — Stepik",
+      "category": "Data Science / ML / AI",
+      "difficulty": "Intermediate",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:04:17.923605"
+    },
+    {
+      "title": "Deep Learning in Practice III: Face Recognition",
+      "category": "Data Science / ML / AI",
+      "difficulty": "Beginner",
+      "language": "en",
+      "source": "udemy",
+      "ts": "2026-06-14T15:04:17.926795"
+    },
+    {
+      "title": "Машинное обучение",
+      "category": "Data Science / ML / AI",
+      "difficulty": "Beginner",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:04:17.930161"
+    },
+    {
+      "title": "Deep Learning for NLP - Part 6",
+      "category": "Data Science / ML / AI",
+      "difficulty": "Intermediate",
+      "language": "en",
+      "source": "udemy",
+      "ts": "2026-06-14T15:04:17.933540"
+    },
+    {
+      "title": "Deep Learning in Finance",
+      "category": "Data Science / ML / AI",
+      "difficulty": "Intermediate",
+      "language": "en",
+      "source": "stepik",
+      "ts": "2026-06-14T15:04:17.937058"
+    },
+    {
+      "title": "Deep Learning: Introduction to GANs",
+      "category": "Data Science / ML / AI",
+      "difficulty": "Beginner",
+      "language": "en",
+      "source": "udemy",
+      "ts": "2026-06-14T15:04:17.940623"
+    },
+    {
+      "title": "Deep Learning (семестр 1, осень 2025) — Stepik",
+      "category": "Data Science / ML / AI",
+      "difficulty": "Intermediate",
+      "language": "ru",
+      "source": "stepik",
+      "ts": "2026-06-14T15:04:17.943930"
     }
   ],
   "likes": [
@@ -1805,6 +1805,30 @@
     {
       "query": "Python",
       "ts": "2026-06-12T14:28:22.801641"
+    },
+    {
+      "query": "Python",
+      "ts": "2026-06-14T15:02:48.409506"
+    },
+    {
+      "query": "Python",
+      "ts": "2026-06-14T15:03:02.695080"
+    },
+    {
+      "query": "Excel",
+      "ts": "2026-06-14T15:03:09.881201"
+    },
+    {
+      "query": "Analytics",
+      "ts": "2026-06-14T15:03:12.151528"
+    },
+    {
+      "query": "Analytics",
+      "ts": "2026-06-14T15:03:52.872483"
+    },
+    {
+      "query": "Deep Learning",
+      "ts": "2026-06-14T15:03:53.070412"
     }
   ],
   "dislikes": [],
@@ -2003,9 +2027,9 @@
     "completed_at": "2026-04-26T18:58:46.040925"
   },
   "gamification": {
-    "streak": 1,
-    "last_visit": "2026-06-12",
-    "xp": 1865,
+    "streak": 3,
+    "last_visit": "2026-06-14",
+    "xp": 1965,
     "achievements": [
       "course_of_day",
       "first_search",
@@ -2017,10 +2041,11 @@
       "weekly_3",
       "started_1",
       "started_5",
-      "explorer"
+      "explorer",
+      "goal_set"
     ],
-    "total_searches": 43,
-    "course_of_day_opened": "2026-06-12",
+    "total_searches": 49,
+    "course_of_day_opened": "2026-06-14",
     "weekly": {
       "week_start": "2026-06-08",
       "courses_opened": 3,
@@ -2030,7 +2055,9 @@
         "wq_save_3"
       ],
       "days_visited": [
-        "2026-06-12"
+        "2026-06-12",
+        "2026-06-13",
+        "2026-06-14"
       ]
     }
   },
@@ -2103,35 +2130,42 @@
       "icon": "🚀",
       "category": "achievement",
       "ts": "2026-06-12T14:30:07.524023",
-      "read": false
+      "read": true
     },
     {
       "text": "Достижение разблокировано: Книжный червь",
       "icon": "📚",
       "category": "achievement",
       "ts": "2026-06-12T14:30:07.526187",
-      "read": false
+      "read": true
     },
     {
       "text": "Достижение разблокировано: Исследователь миров",
       "icon": "🌍",
       "category": "achievement",
       "ts": "2026-06-12T14:30:07.528520",
-      "read": false
+      "read": true
     },
     {
       "text": "Получено 80 XP за задание: Открой 3 курса за неделю",
       "icon": "🎁",
       "category": "achievement",
       "ts": "2026-06-12T14:30:11.247550",
-      "read": false
+      "read": true
     },
     {
       "text": "Получено 50 XP за задание: Сохрани 3 курса за неделю",
       "icon": "🎁",
       "category": "achievement",
       "ts": "2026-06-12T14:30:21.880081",
-      "read": false
+      "read": true
+    },
+    {
+      "text": "Достижение разблокировано: С целью!",
+      "icon": "🎯",
+      "category": "achievement",
+      "ts": "2026-06-13T00:43:54.873852",
+      "read": true
     }
   ],
   "started": [
@@ -2191,5 +2225,13 @@
       "progress": 0,
       "started_at": "2026-06-12T14:30:09.101652"
     }
-  ]
+  ],
+  "profile_meta": {
+    "bio": "",
+    "goal": "Сменить работу",
+    "avatar": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wCEAAQGBgkHCQkJCQkLCQoJCwsLCwsLCw0KDAsMCg0NDQ0ODg0NDQ0MEA8QDA0OEBAQEA4PEhISDxIRERIUEhQSEg4BBAUFCAYIBwgIBwkHCAcJCAgHBwgICgcIBwgHCgoJCAkJCAkKCQkJBwkJCQoKCwsKCgoICQgKCgoKCg8QDw8Pfv/CABEIAuAC4AMBIgACEQEDEQH/xADmAAABBQEBAQEAAAAAAAAAAAAEAAIDBQYBBwgJAQADAQEBAQAAAAAAAAAAAAAAAgMBBAUGAgEBAQEBAAAAAAAAAAAAAAAAAgEDBBAAAwEAAgIDAQEBAQEBAAAAAQIDBAAFERIGECATMBRAFRYRAQACAgMBAQEBAQEAAAAAAAEAEQIQAyAwEkATBFCwEgACAQIFBAECBAUEAwAAAAAAEQEQIQISIDBAMUFQUWEicQMTYIEyQnCAkXKhsfCgweETAAIBBAEEAgMAAgMBAAAAAAABERAhMUFRIDBhcUCBUJGhseHB0fHw/9oACAEBAAAAAPjFqakl0kgiSSWaZ66kyKKOCKCMdittm6WWRUWdhcuuTXp3XLru972Vz53SyS9nkmmfLKSWSVaH29rbW1sXPJz8xucSandtfRbjmQoZZppurqghiihihjHiO3ruylSobPZviekl13X96ndcR2Xsr5XS9ImfJKZOWfYWNlcW1weQXImfmilzia93quwsJJPMsvNIRNLxRQwwRwxwwwc9GmsNK/roK2hxVb2RJd656cuOlnkkTnzue8l005BhB9hZWtpc2hRcj09/5stS51Iv3MiawMl8rysks5EyjhHjhihhjgj3N3ZXw/XSmQ5zDZfvUk57knclfLNKndnc95EhchZRllY2dvaWZk0sjZXmfmyk1JK99vhnitLkfxuomllIm7DBDDDFBHFFd70rTiRRJxlmB57gI0nO713XJz5JpU5TSSESETzG2Rtla2tqeRM9dmmLJ/NtcTUnbP2MOGR1nbw+JhzSzTzchhHHhiiijk9ButnBUjs5KTYF4XzCuc5yc7vXJ0rpnrs00087yyTrG1tLewIKe50khRJJP5vtXEmu9N9ZoGwuPtLmj8WdNNMRJyEaEeJkLItjf7eypqtQP7y5s8947SJ3XOenLr5HukmkklnmJnsLO1srYwiZdllnnMOJI/N9KPiTfX/XsuCMQ7QHX/lXnjiJp53sHgHhjiYw/dXe4bn6iHkR8V1d03kOPd13XOa5yfK+SZ0xMhZJ9pZ2Jp8z3snnJMKMJJk/OTia3rV7B7Nk6YflwBq7cvxrJyTzTyO5DAOO1kbtjq9pMPS1A0TbB9jbx+V+dsk47vHO72aVxD5Zijz7I88owtcklmKMNNnIII/OJcTW8XqP0JkM6PE+zl3NrnfCYZppiHt4wceNjOFeg6667FR0IPI7k+a3HxPmdQ13Xt5IpZZp5piDbGyLPKnI658hhBJxhZJJb/zj4uJreene/i4+lg6Q/T6WxxnjM0808vWNbHCxscOi3u0naLQU40UFvZmKah88x4/ec4508zyJTDjzTSjJiV0h5BpBZk555JS/OBcXE1vqPtZ2ayrJRLSv3OjsvFMNORNO9rWrkbOMZud9o4Gw52mcZBNZNdDDjcPR8Se+aWaU6xLJKKLIfK+Wcmcsg2wKOOJ7D+dCXFxLde8X1LkaWd5F1T+jXtZ8/wBJMRJMkn9716Vr6DsrWqjZQ1ZFwPXvLr3zZrzGibJO6Yl5JpRRJBM8j555ZySyiT7A+2KhY/8AOeNdauLVfRNrYZnBVZHdZIVtuV/zvXyESSdd3qfK98voWh2U9QA2jqrLUwUY9uAK0PAVkT+9PKHbOYRJNLPNMSRIWWRYWlrZExsld+cjWrib2y+qdCJX4ygonWHo5jbQ+o8HpJp55Exie+Z81j6LubOOjqxwhZtkqaK0pmV4eTihPKgs4XRtkSdPMSURMSdYW16bPHHM9fnImtXFx303vYIcrlKYIfUeqA3FNZv8owD5p3MhhY+SeaW69O36DpKWEJhWwJrIi6VtdCHIiOD2MHBgB40ROUYQSfa6TWWlNDDK/nPznSUfWrnuHvdJLF5zRxzVu4tdLn5HEUfk8BDox2RvJDIkk0fq2/jrs3nx+mk6EgOIkYTOqRFvbL3jaMYWMpxB5h19tNJZuycblxd/OhJRrrebj6vEAPwuOL3J+ZJBvs0w6+ovK5JpXBgNtRxHRyes73QSVuTz0VjcE3xE+svfO/OA3zEWD45qvggIwrnl2hWs2l7orOoxPIlzi/O3iTWrisvrrU5B/PPaHR+lmYitKLrrLsdNUy0ShgyZx7Ce1Ow9M295DQ4LLk6bU2u50XGeLZDr5yjZ+Si1PRnjQsJu9Vs77Smw5bPQx8SX52t6k1q4vsDTgYeDPZ4D1nX5jNFeoUgZeMrghVEbDDnzRZZDqz0r0j0fmWxGKhv/AEP1U80bHeGByTHkGktIIzKAOe3tnqNNqdGZ2qx1LAnOS/O1N6k1vW/TvosWZwFRlK0n2m/x1lu7PA8w1PN3vSGqFlrm+21Pe+reu3gmK89pdr7XcnhBeGY7sxHSbMiR+hzuZsYTTpLTW7fQSofLY4ZLrE788Um9SjXN19eU1P5dh6cOSw9quL6shzmDCEmht0TYKqm0dRQnVV5ZeteoXYObD0lpprGr878iBkJmdGXe2Up1n5Fc2khFrZ7jTFMZVYSkfxrV1v57pLiTWp32BpBvNfH6YafTanfW1RhYMlW2IZ09jOfAQduaXCzWOfF0vr3sEpYDbSwjXgtPDISU2ur7q8sbrRVHmvpp8J82tuZ4g87iYY+pc538+Uk3qSj7vvqW0zPgXnEN36lqNEfg/LK6slRJr7KO8sjptTeeN02r7Xs03r23PkLhrLCj81pFM9sYwDDrM/dbjDG70wbklsYNT4Koj45sveL8/wBqSb1Nar77bCxOF8cqdH6p6FDV5vBZl8bjp7Ke21tiYToNNXfNp+03Kyh+u21zZ55hPnolMD1/Q6atI1+gkz+/9PA1loNWwnmA4fFM4yRz3uH+COJJcSa0j7s5lMB4/nrf2HZ1Hn9Lm6axnJt50RrNXfQaF+mtMd8teu+p29DkJtV6Hbw98mGmoq+EdodTV3Ww1G1ss7ofRbZ4YleZJQeVhyM650jop/gVcSTepRr6g9mFwHzdmLP0H2zKeKVtdyyJntDY+Cujrzr3W+rb7yoT1Czr842l9Pt7Gn81lgrqsSrFDU1xbWGj2Wwm7sZwa+uaRhMDzkr3d7GY74FS4kuJN5f/AGYfV/NPlpGt9JB82qGRnl2WreHnajbWu/t8jjs97Z65baAeopc5WbHYXfmmcfFDnRKYEc+1sj7S81Wi2s1PrwqkR03meLTny95yw4z4MS61JcTW9+mPWxvF/AqzTegWOCzvJTNHa8zeVWi9G02i1mnr67ymg9v9Vsqbz+lGttZ6J5JSwy01HTBrtzamX13pNISTpKQq1o55VjPLmNlc117AxfBqS4km9a3ml+rYPOPD89P6hbZWlYSZe1tHnu6K9u3vPsTfQ93H4cV9GWWBqrQjcWnn2FJflaqtAm1mns7g62uDGwHmYfeAvKrsd56upkt2opF8FpJcSXGt631j2DzzyocjS6TK0L+upa3kmjPk6LDotIDb3XrOi+ZvTPdcaGedD5o8pPpaSvmdvLzY6G0f1w4I9r5+boRrCITylqhI0HGujk+C0kutSbxq4R7CwBgMpdTUdr6ynjsrzsVp29Ksr8KkfrfePHPOfoLZeckWYtIblL2eorYI9Xs7+/0B0/Bg2QkYjK6KR1zceS1ER967nOp/wWkkuJN6o+t1GjvKmnt54crFS1NXamHW9zbcJOeqmu1Rnpw/hw+52OfjutLdeM3NqNDKTsr/AENqSc9SEjp+MwpPGWF/msXZ3czV3ju/BzUkutXE1vVc+lXODj1kWLDqqka32Tru1tKtHky3HKK3I2E3ztR7hsKP01rk+aQu3Mu7Iq7IJPsZJzOhjZbD8hhItLbPhvl53jnP+DGtSS4m9UaT9rqM9darB0JlFliPUBtLvzxyrgXL08cup08G3rPnah1NTOMSfodJQQa8y2uyyzZrC1sZpHcBr6vN1YrA37W0wvOvcuof4WTWpLiXFG5N7odFZXOXq6zPV/oGhON1BxTswGH6t6EQ+WmsMr5FBFG3vJ7HSXw1xZkPMKlMvLc2bsY9Rk64zheDqtJrbHGhvkSaJQ/Haa1JcS4kmtRV9oLDOC5mk2GkPvjKelg2ekvtzcXvZ6kAIHF8zpXKMcA/Q3FvrriwKIaCrvQmvbAKLU5wSz1WJyhmzuvP6/sqiDpsl81pKNLiSXEo+t5p5KyqA1O7w2r0GVHtdtrNRpiVYF18nnNFnrQwrZFeRULrLaX8Wg0c9s4h8RFlOmBV8w8T49FJhMHuW4VSM6DR5jO+IpJrUkuLiTW9a6zse3d1k4zwaXQ+o+p3NkWU8rucfgBa8HX5D2TZ5vyjz0X1G2NsLjRTynWJUsiZFGPERGG/QmVXlevzGI71o1Fl88F5Ikko0l1q4mt61l2fFKMQNBaanSeka67uX9iZT1RccFlQ6in9OuGZvyHyr0/ZUBxxtlZmGkWE7mCNh4+OeynQ2K1vj+Za6HOZuhr5fJUkmtSS4uJrVw6cxgE7r4WG29S9ity3ycBHqYtNpAS4pobvQ9r/ADzwv6NxNTLZWlleWRc/Op0dE7pdgdM2IMErweu4JS5/P1yk8tSTWpJJcS41vYrHRqx2MrrthGm3dy8hkJUyqppiXttprBlbBmM37B4Wiri1JN0VvJKMC+Wuxsm1tZpORQx+Z+a8Gpc/ngVJL5akmujSSS4lxreSXesuWa/U6Iu5tSuvnhdibB6IKtibCwbyIJmA9HyGGaddXMIpOm0RTIAePZEwx7ySZsB4yGLRUtAAiOv8wSTWpJJJcS41jTtRo9BPb2+rPO0k43TQMbmqU/QekW5pE8cY4hVllPP4WT2lwYwR+i0ZigA6eoIZDSp3eJ+XB1NFSCc65/fNUlGkkkkuJca1tgTebXW6jRnnFVMbre/jrsoKQLqLecYcs+3tDI/CxB+kWNjZOAA0Gqs53P7xvJCJuvzvz3laGoo4XNdL1vnKUaSSSSXEm8by11Q299F3B9qbGPXiFjWpM5QkNa/tldnllkk+deUNGkPtLIyYcY6/uZDzuwx9fLIgfD/P8pQ08PHpJseFTWpJJJLiSb1k20nJorz0D0naHETEwBDQXBsjGQnk2ZcyJmy/hD6aHhx9xaWU9bHfXlhaEuFgjklcF5x5LQ5zOBu72Ny73CKNJJJJLiTeN5Nsb1jO1l97D6UTfPIMnlZAEuS2JBREsrc38+5SR8RFlbmEyWZHbHQ25ZTRq0Do9RgMfT02drRo3y8b16wiSSSSSS4uKPj9BoT9Risje+t+y385y0FlOqup6G6xsSyJw8B5Xkuu7yazOKcZcXJb7G2Nn4PnK2DycUOto87WwMS7GnRPxqSSSSSXFxNapjbPZ3EdW/Se2a6Ca7uLBzM/X8xktu+plzmWou9e5NVhYFcKsr7RzuPNIVdlVH5ZS19Jna0dnGxcYzrnZFJJJJJLib1rU+91F7qNOL5eT7BuytHaHlKGor8r5RaeiYXzRzyCJpXP5H2yJPcIXrNHayzmTMzmXvjPNPPaWgrRlDBFHExSET4lJJJJJLi4mtUuh2leZqvR5qcHSbnT2RhfVT5DzTB+j7rC+aVkxNhPJN1MR5pzZ5LLQXNm4mYXFAak3L+EUFcJFDENAolLMZJgUkkkkl1q4mtVppOFH670H0hlQHd6uwMJnjx/lXnFl7AZJ5r5MSccRNJ16KsXsnsShDdNYST2MGRsrefO/POZGFiiHZHx7iZJJPPUkkkkl1repreP01kaPb+hb30UWCM+9MfNU+JeWh+i+g21tz55y9kadIpOyTSqyuCBqAu76rnVspLiXtJ8+YiKGNsfetIfIpl5wkkkkl1q4k1vJtIY5WL/AGi73BtFYmHFzZjwqg9D3xlrcVvnXjh5xU3ecnU06NJhiJmBI2ul7weKOk8Y81hb3rJUukO7wfz5JJJJJcXEmt4t5BYWoZ+b0/tiqozdHuC8341oPSDDrM8Cm+eHFmvaxr2k8PllKmnGJtdEc/gIFavJ/JGJySfNK+NsQ2ESSSSSXFxNah5LK1u99XYzD+vyV4btp6H6/JXj28DbkyCvb4znyiuRRRslsCIrEqxJbZSGFzdYBXvf554RG3nZJZpeRMihhw6SSSSXEuJNbWk6k+7voMPYelZXOw+gelemaaTpaA4wYCwuPDc1LK+MGIg+SwMmLsJLHrSC5Gx1sKWV+fgO9nkIbxkbGAw5BJJJJLiXE1rQLAu5tbrQctM9qr8La6q9sJyiWwVEVrKi8J492RokBM555FzxPsTIpppmyQVI3LKi8BzbyJ3sayPjYRhsu1qSSSXWria2OCbXXdPtj9w62OMPOuLA0qedtJQ6GYAyyD8IrGMic8wwkmGe4tDGycmUjx6yuuCqbwHMSv6oo1xrYg66jTXKNJJdauJRsivztPq3nWtn6RW9uTrK2EsSkNUUUiuLies8880XUpii1CddWjiyGJznS8Ar74bN+c+dR8bHCpOdHCrw69JJRpJLi4lHFYanW3OnGsht3dyHcuZ3zTldDAqs9rNWZW1eD8mke+ezllklKKENsT6+GwlKIdHBJS1OY8qq4WMSmQtSEOwRJNdGkkuLia0U+41PXbv1KysJzgLxxLS5i5iO52pu9OJTZduJwjyTSZXjFnl8Pt8+2xLPK72ZubCpq7zDJx8nc6KvAGhjaKkklGkkuN63lZfEE22r9MA1V9oXCwXB/LW0LIdPGIQDVgDZZeV8NI6VHLbGSmSjS9kMJJHOkrPPIKO+w3mvXydDr4B4YWIVJJNakkucTYYdXa2p+4zq0uy3fm0N3trK4NtH1twbI3N5Oo0uVpL3G5kwieQp89gQfJINLIOeW0t+b8lrbqwqvJYHsHEFgiaxnAkkk1qSXFxNrO6ayrtL7CU/YXeft7Vs9rcHWILL4h8PnvmIo5Ot4/ziGawtevKfYWM4Uzg+XL+E8yPjbNEZTYWhjHGgiZFHyJoiSSUaSXG9UNVb7t9q/fagy2srnO6CxKqbLSWo4l0S8bBeDDWllpxdF5mHZ2R9gM404iJk0cBZzoJ+ZTx2LTQyZ7zccdkbIoYWM4Mkkko0utb1RQk6vYlM1Os316bXTEyjZfaaUlgVsWg89801WkK2tVCVkbazKuCYJyRhiZOKczlbYMy/lwZFs+HxYWFkcEULGccGkkk1qXWt6hYtT6ZY2kw+m3ujFHvnLryL4h9EzVsio/EvMtNfyNK1uSAvjTbDoA0E1jI2WcoJneU3muTub6MzwCCGKOGKNJjREkkmtS4m9Qgew9I9FtIbaysrCB11NG50t/Zw4+y0UwFPkvGSBttoAr7uCsbWzJCz45tpYuqryaaMFcqvPvPNLfkQ+CQxxDMYuRJwCSSTWrrU3qBfprf1n12YGzDq4dDfEqIk6yt0JWi3UdZmPL8stVfy6Gx86s9MdTZCIi8tpgrKeWaCpLVT5XnNJrocZ5CyGGCJjE9/K1JJJrV1qb1RF6Ig31v0vvl1ToCt/ezYmX0mY+36NRR2T25DB+X3th6DPpGee6KWtraTt7ZWtczR9leGBaiU/mlPuL6u8RyEMA8XOyJrWgJJJRpdauJsVno7GH3D0vC+OVvomo2do6qttMVNbKHMLVV5Wd8rw9zo93YF0mWHCmKyJmhsoWWVm+ftUYmUPjUG0Nxnk4kUXXdTGRxRQJJJrUutXE1hll6D6Np88P5QF6NabS+862XoVlNOX0HOayzrCM95Zg9RtduRR+ZAxXt354Fe37qs+6uZuwC2Iqynz5o7gDA0bGvcyLkbI+IJJJNakuLia2zsCd1UCfQ/glJ6Ldbc7Jk+sXR5E8lW64gYDW+S4fUeklyebZ8+91OawNzZEnwm3r5HhEvYN4p5OxQxJyZC1sTeMb0BJJRpJLrW8aZrCIIN19A/JDPQ9uSfU2e52xMk/a0mxozlm/Bark0V8QTbXnMPJaSEn9bZkFRCnj8pPnjMMbxzWMYxnImRc5BEklGkklxJM6b6YZs/XSviXUbDXaPTBEaS2htCa2j0hsA0nmXkEMdpwi3tLk2sqOGWtlC1z7OUBllABiPAB+t43kcfGsijZFBCGYnRpJJJcSSvoT/RN9rzPm/YGQ7zczZKzvrC/wChDE2ARFd5j5VHySyJMt7IwMqJp58IxBpww88omewPj3ONcyFJsMMLBgxR4blJJJJLiSTbKC+vddq9p47bba6t9Q6rDIv7iEAG+sIRKLy7znhRh8luZbPKjrLQzjGPs+ijWMdBQ4zyxqbFxNhhhhFCFibHy5SSSSS4kk00u00W7WttaEzUHaAoOnP0h4cUF4eLg++VYhx1qTYzWpegjzDLmaSHthNGPKNXZ8LF4arYl2MeAcMOBjI2t5cpJJJLiSTVOZY6yH1az9dD8p0+luJZK8u3JhEgvCMxjq2Txcw2ys57C5uZcSPpjY2hdsDIYQqutqO0WTx7+sgHGFEhjjazj5ZpEkkkuJJNSItItVs770b0Oq8A9H09lIQ8PRP7CdWZvNNq35OhJtrgyxuX4yu3Vg+GEA0qWvrqCCFk1BQ4uEQcQSFkcXE97e9dxJJJcSSXOdlurrQGbf0LbY7yL1XWDVxFHHs9EpKbzqvc6kurLzpRaC3LbQS7C/aNBUg2plVDnaghSWdfnvLwRRYeRJ7k2OHs0jhEkuJJJc4l3tptRdV6BsHfPG69j0ar60SPRWyx2MrTJbaW2xvMjJMQRV2fol5LHX0+QNsW4e6DBmPMlqKPyEePkXHzRiQcI67jGxcSSSSTUkucdd7XU3R3kVd679AHzcAo8kdd4seqGIVlei47Reeyvgm2Ou0UrQBMHTW8+dp9sZTh3BFdDmPJU9KOCN3Xs4xR8QySS4uJJJJqXLqyjrovSPffRTp4Mn4ZQ6vQZAf0mipXz9voCPIQCbvZ+hWsjG13kmDvLUPD+m7EiqoTDIi/KsXKoIOqSV8mMh41nFZpJN6k1NSS6udalJb+l/RmtMixwfz9S6jSw4P2vWY/DGn2NJpPLqrWXmz1SCdnvM/Mi7gilXrumz+Yu7gqpZ4lW9e+Li6+Wakykaj42+SXEk1vEuyKPq5xOm0n1ltZn19fSfPEL7tmS9r9Ql8iyWw5UeheJH73eF1YpWXwfmYdqdNndPsbKiotXcV4NZ5p3rppOMXXyyYmnbG1X6b1JKPiTuO7xN45Ot772b0bZ54i0+e8IyZU9ftPbD/EbLfW0+U8um0elOlIymP87ElfG7u5002citTh4MbRd7175FxOfIF59Gxo+n4kk1c4knpqak57tZv/AEP1Gl8t9TzfzqGkMLWwX9LSes+rS0mezNreyiWoOIyXXvfLK+5OqH6iyYFVZtj+uT39dxs0nMTn+R1m0SSa9qSXOJc51LvbL0b0krFXPrfyLQ9g6M0GEZnZNn0UmzsGM0EPnoz5ZJZHyvcnIwscGLneySd6pO9Tn9qcAytj2aTU9qc3qauJN63jWrTNvdR6x518+JjOwNa5r3dfKeTNb2uhy2QUsr5nyPl6/qb3jOPZ3r5nOdJ1dc5c8xqRF//aAAgBAhAAAABQDHAYG0pJ2ehmg9aUDNUUGbEgnl7gnNTsADd2kwKVbN2j0fQFUbc0Mj4ppEG6lYAKAAtaDO9mzNwUpmbukvBAk+qdi0AA2gpJ7bR6Pq6GG6azLDwQC01le7ABu7dFaKdVKVcMzQDaDT4/GAp1QXObsoBoNlbyXYJ2Wq4GAaFGzj5fNAt2y53lydxQAbMu+Kq51dLsoAFNZeXlXzQG9Do8wry83oMAaYPRVM3prRsN1mbV4+dTzQDp9DmkQ5m7cbaKuTKOSWPf0gPWzOsOBQPNAKd7QSEec7FRnWgrO0oN7DEyj06KcfDKoHmgFHpBlhI3CqsA2oV7ukmBarp5qVfA80AZlYJKTAaim4F37mRaiO2xht2XDywAwdlkrQKs4qMLWnUz49FbeeDb03J4eMACm15gSbVZlViadXW6VrXDZQlWvcyKsPKADFN5wVqrmsoU5r+iSv0jPLmLKvo2nLlPLAAxV5mrTURVRXpsm9Vl67SMnU7OeXV0w5MPLAAZU5m6dhmIohWizv67VfdkqHY04dfJmN5QABSUNvBNwVc2jsk+n3Szy5kWtGrBVovT8+AABJ8ilHFM0xb7vu4YkgZ4dO47dPR8gAABiqNpqiuI1Tp9hYSQ3AmdfY9H348AYUYkE2uyprDaN6nZOUExqLJW6fTbDPkQGAFpHNalXIjsqHV6dJTOZHBp76nRoufIgMAAtwXauKas6en0kZNKAbq9PpuYq/JgwALRX1do2jGZvV3NspJOSla07Kmqq/KgwApRRRqWlKvXUregTWPOgdPVdmFXF+YBgFBhFNo0lOr1x6MLNFggz37DDMbflQYFAMdUnVklOvr+iwUmkzFlqX7lGHofIgwoAZpiikubq7/YB9JzwJKtO3a6zDfIgygAZNWJM8h7+rcoE1lIaaP6VaawHyYAADJPknnT07kHv2egUFRYoIpX0OhgZV+XAABmmkJnSxsmr0+jui5NFlOm29G4BKXz4AAMKsXGNYKP6DE1xUmpSvTfoDJwTxgAABUUoazMMtfQhMFwFrTql3MspoeMAAUVTNGXNZjYnoqZmArO3dzdYqpLfKAAKG4BMGYOnn5enumpgA7ejwdDJNNp5AABR6TXCeOxqeh5/Nf0EzDcDW6+TpEUZ/IAAKLVoDKDah3edPp6NMZcAvWDoxpvlgAFFZ+d2FbUU9CaNOmmqAXUGAG8sAGGlOuaMMTD0JBOgAAvSowCpPmAGBpyZjQMNbqwVSgBMpdQEWRsABhicMqaAYrdwshwoTXK9SKk81mfhAYBpwldgGySt3dPNjqUJqjP2c8xm0ZvPAYGzZrm0FDnVr+nJZgzHM2t08wAMHMAA26NDVStaedUr3TkqD0SNN3YGZhUFABmDSSxqzulxa8qLUBSqNNcAGcUGBs3dWMjpVgAVddQAAxQJ0Kr/9oACAEDIAAAAOmBgASqTNJICaArK7M2QAJFSzczcgAG63vOpkoAmR0kSQABuvQneM7vXEgTO6oSQABu76MTxm3TcSBMbWLSTg5ugFb33HDl01VJATFodUpw5nQC66jl5q65nYAlObG1SZw5nQN23VuRw5+mfP176wEic1SMxNOfQWV1Nnj5+283WqEqSpMukygBW0T3G8eU3x630uCVJLieucyAKtI9GDlNVPPbsZKpT02JUcpoVYk9DCYtHPb6bXPOeWADlz6TW0Ynd9GsOVX55vrXSeXKVXG1PRuJmC1Tkh6tYcp68s630c5iakpLpU880UnJC+7WJ49d26TBzlRXNVuU7tVKczZW7m43nPTrvKYvernUSbyqpjVKSRmWdzWJ5V16cYpW5vSZzenPknLSoU5Kb1NYclXDcNVGt6nkKnNFK5zR3NYIG7kAramq8ypAOnON3n7A3BDWcxSVS6uLcM0bjMmfcDcZNw2OZSWtZO41iarWZh6gNxE1zzOXTnVc3S6iQ1iatLB6gNZHOOdXk1zxvS8kA03MB6gNZHKRzKkOlYw1lZgB6gNxHJsJi7RNVusbO61OAPUAOU41OXUsaZm5laJzWB6gbhynMqo102EmaZmtVEgPUDcOU40p068JEmNAxLcPUDcZzmqleN2ZJBVTKpZmB6gbiJmuvRy5lxIYaqQzMB6gbiOaquOdCWaAKlLAb6QbjlIqVTmyywBUJ3cybp3AOSTpzE4LBmhO6hWq6g3ImZzdNQbVJzNaMWkUdQbkccmem7ubDa6SnJrc0KSoOoazly5T1vK2cN3qmZzdaFJoHUNZHPhHoya3Da5d04ysbmlAHUG5PLk6zgVrLSGbm1KgDqDUcnLvGMVtSoSCgAOoNZyQmhqpoJCgAHUNY5E5oVUipArYBSTqNZuclTKku9cpoSC0ACr0GJxM5pXVHOqSE9DnVAmnRhuGbPIpNVKVTQmlSqhqJdsG4Mnnm9BKVFADaHRy51Y3AzMmgG4bg3Nbo6Oc71//2gAIAQEAAQIA+/H34HAV4AODg4ODnr6evr6lShUqVKlCpX6wAKD7KwZkv1lYfrx+fAHB9jgHgcAH0Dwc8DgI4OAjgCgLNUREkkklKc0UcUgk88fXj6H1iy5Oll1l+n39YAODg4Oevr6lSpUqVKlSpVlIxlAQOLnXJ/ysjxv1TL/iODg/IAAHBwcHFPkcBHARwFVHBxQizRFmk0lNFUBgxYuG+/H144OdNjQBQGydp1PBwEEcA9fUqVKlSpUqVKlJclwpikE4AOPgrhvk14xwH9D6H2DwEc8eAPI4BwHg55XgCr4ARUWaTnNJIqpwEEOXDA88fR/GVJyQ/wBEaT3n3HVjg4OAjnj1KlSpUqVKlSpUr1z+uLhUgqr+yPXNpwaeqZR+h9Hg+hwAcBU+PPgfQ4ODgKgAcUKqLNUSaSSSIo4CHD+wYEHx++pmgI9M5V58rn39cODg4CCOFSpUqVKkEEEFetqpyIUIKkBwEsnNPXdj1VZfY4PryPsfQ4AOeQCwIKkcCgKQVCKiok0ScpoqcDB/csGBBXgP+HxyRRlRvJeFovoy68g4ODg4ODhUqVKlSpUqVKxaJjRVrLww9ASZXStY7ul1YgPH4A8AcHBwEc8AjgUcUDgAChQoRZpJElJBxSGD+4f2UqwA4B4/Q58TkY+XWjBoPAq/a9cVHBwcHB9FSpUqQVKlSpXBcLgrWVpHngqpM0eTjnYdXu678j8jnkHzwDgA4OLwABFRJpNJqgUhvYN7BgwKhAvF4D+D+PhwRdqlg0uFYuj517rpfAIIIIPCpUqVKkEFSMVE5gabVjbO6nnj2Dgy0A6cXadIQODg/B4PocBHARwEABeAqFVFlNERUCkMG9wwYFQioBwcHFP2fo/fwvmpNIPCC0ijw5M1HfdcPoEEH6IZSpUqV9SvrhtBpkcrKsWQqSpRjOFZPoh23RvP7HACPwv0OKPACKFRURERU4oQhgxZSOKBxeLwEcHFAH48ffxB/GmDcbgaFfXBSDlOxx6IDgAA4OeCCCpQoUK+hXLaDYWKgPC+Z0b7z66JB3TnYdLq6/x48AcJ8+RwcHBwEEBQiIiIgUKRwH29vZWXg4oTisnAEACr4/B+/ii421JrhwrRM1bPk19dpK/Iem8KQQRwfZ4eFSpHgqVwactpsRyqWm8TAyaWXQ05OvAdvXbeqpDxwjx4HBwcA8AAKqIiKE4oBXisWUjgVAoHECgBFQKAPP6P18R5JrzslFC+VQQVs7wtZfkXXBg4YMG9vYnz5IIK+pULitgt/JkAeGjGyLRVfHKrrNrKLXx6cOzEeAePHAAoAAE0RQo4oUoQQQwIII4OKVKcUIqKkwpYt/h8WcGLPLfFaMffM2iGY5OVDZ+160MGDBg3t5DeeAjgHj1wPJsl3SiBnFpESIlWAVzNjJV5s63d1/p4VRH+AisFVFUKAoUBVBDAjg4OApxQFRUVFRUmSWPAv+Hx60pyHrvheBYUFMl7QxXS0z2GDdjDBw4YN59vb39wwYMGDdfrg0Wdaz9nFpFM+uVK5ayKze01J5fPpyiTKAEAnxoGHqoXg57B/I4CCqgDicBTiBFmiLwngX6P5P117dTWik6VulYsXbLtzUphidV00dl1PZdWCCCDwg89vYMHDBgc182nAxZzeXs7MDyWiOm6vJCFrEq4vOvXNkTIuFMAxzzGCwOUTClSo4OAqQV4AioqLGMpKnCfI/J/SN0FPVuBN2aptxDSXU9srw5uTFTr9d8vc/GSgAA+iCDzyGDBgwbDsybpUM6LeJDcYesaZtlI1go5WRV0IeZkilLQRShh/J5MhJYFSOIBwFRJZSzYYY/4HjNzwOefP5P4+Ja/DhR2MtCPkGNcd8fW6tTS1iT2nuO7b1OrIODhBBBUoINn4rBg2DV1uqbOtIaouvsvF4iwd0dZUqF63ViKBVX1QKt4oP4ov8XV1Mwg4GVphFRM2XNinOcrIx8eOE+f2fo8+Masja5KwXscb0zbc836qmBGkwtrcCZnXssDwEliM5j4fkdWateVX0JlowXxbA5GjPeNCGjoUCcGKS6vJ1H8vkS2XwOTUqEKmbo3PaiGBiUVfVJqkp48WfPKMsoTUx4eE+eefyfz19OmpRdK59mxtciMTZg7bcJrkptxTRIIla6ZVYrpALxGfTBWcT56gNDpLSfAxi8ta7VZ8zZ2ziK5OsWRmW7nezDgMuDhUAcKXiA6RAm8zP8AmiShm66UYZZR9atrYgknnn7P4P4B6ILbSlVfZfVW8tvWdlolYO4OK18kOaZ2t/8ASryF7OAUg/Z4mhlWUy7qM2Z8mvqrqrS15dEdeeEczddgz4wFVud7tdi4IChSv0RJqzsgJ4gZDFM8smbPCWfGkgp5ZtNXbz+z+D9H6+AdjbOw2wbRdruzwv03yTWTMr1Ru/Y8Tsdd6tHVp4CtM19ave4lyGW6TrK7DGes05bhaR1YNsHn1fRZVkqxrx6dzuY+ir6gzICqERIJvypSkGWKymZQhlyZMaz8co229a/QPkt58/Z/fxbsYvblR2kn00p5BzW6bcMcMn8ttdFrPfQlfZ6SabVXOozwWEw7RlHLCy9ffHtXser2uaxv1A6yTIsGalKfI9zmiy4FClAyWgwAlJKQ3Qhw5JZ0l/DJPJOfDzwTWm2/158+fP8AiftH+M9s/K4t8doLe0hHrutyo8NW7sH7KvY1u1PaT+iPMu8qyei4uDFtzbBjpvSyhsm7qewndaKNMJZ4g3W1X7K/sURFUgNZi2W8rjVLRAdv1WJYROT/AI0jLPHkzxms+67sWLe3t555/J/R58X7DIhfssve4wC+KeLqoZobNePtM+jgqLEyccRiEUrOUYJnOfHoGXtMuGsA+PX1+bCl8XYu0nkxDsWzc7ndoUoCo8sQXBT+kdp0jsMO2XOz6nrklA50hVUE2LO7tsuX9vJYN5HCfJ/J+z9HnStBanXXt43UDNDqNcNehtOtuz7Goq6yTwqhYg8zxyZJ51ylJZOsTd03Y9Z1WnEo6+HU93PE8uyxXUoKoc+jY1XDhue3uz0e7jVKsZQxV6L+HUdx6QyRQTeVURZDl27PaaFvYuCPoHjN/ieHmdurrWenHoXshzDs60Pm7OT7dOi9GKMjJyasiqOddadE1S1apdS0uIe76bbH48E5OO7qnyGXXapA8aBXboCMtlcEvwXq9XE5QxiLZrDHp6TrNUAiEU44BLGmu+moYMSCCCG9iwT9H8g/Fu+BRfkPX7wWg3XXhbsNO81UvPnmXAsYtBYuP+z/AO1Xux2VO9wfKsXzLqe8VfkPxrr/AIzny0DD+BTIvV6BWb9xsJIcur8YO7guRJEVFlXNXPszct1uZ5UIcFqkMF7XQWLeQQQfJYMqk/5Hh50u3JZXvb5FiYypm0ddbcNNhoITiMirPMa6H7HV2MnTGmHB1TfGbfDux+JZ36j5fm7HKxlSDprrm2i/TWdG52dwxoXo1Xe1aOyFOTCNIquZIwzLmvpzw0I9iWKhZDvpBiwZT58lk4FLe32f2foH4X3Ba/PkctKB8G/HO7aWeacKokZTatdd31DmCOSQtk3Zu2ekl3fG+x+H9dq6rvc2rxrTXzMubNnRBKfYRClGTQzij8cSzzxJMTjmhhjjhH1nTNXfPBrqTQcANO8RgSCrEmmZTEseeP8AA/R+jzo+0zdjur2t+y56ZhmBrsmVWCpLgrW9dtbzgkc010nYmxdNd2Hu83fZey3dP3PT9B8lwb687NsplHNHPKNPk00b3q1nL3VQvMkYQngXIueEJyRCzNC+t5a5aXVLBmv2+4uDzy1JSkpb/U/R+vjHd4r9jzXIY5ZZTVdihQBSuil31T4ozJ/RdTbHqjwAReDXk7Dou27XB3ef4p3St3GaBDoOx7pvn57dKexaptxmM8+eMcks2eWNYDN6ezoeAe2tsPY01LdNJXs8NAD7M8YIpPn/AAP4PD+IUwdne9M6JPj1/rVTwLpZr6dEJTSbvxFniXrsuZ880/nqnZ5XyN1HYfL8uYdJ31+wuV2f/R116X4p8g6mGyTtSrOAnrgyyhDNnWbIA3s/Dc8Vf59miPG7aU1Ru2rbz2ameCqT/sfwfrrrJZF7BZlFSOhCtWel2HJZ1zhc/X5epbLDQGWJhVtLItOsknW6PlK6dEuw6/s67LbF3x04ext3TrmsWZAqylmz4oJNEVSK/wBC0yc4gYjnaTUEeweN0r2OY8hnRfP48ePH5P5P0eDmBsQZtvIxzZr8etWo9GXmLGQMsMCZD0WjoI9OvXDDOTZtXXph0xtn63qOxzdnKSZkvsFPeV8202tKbI6CcJ545C0VmTRAiLwSWY4eUJ52HHkRwhDJwunrAOD8DgAHD/gf0j9bsptrdVROwsWK3W79comJwz4BZlYRRaDTr0tPAmTDmOCvXZB2sO1jKB48QhEzNImWXZjyTlnQQZLgCaABGkqoFB9vLua35VCjKQ1ZWyNTlVAHBw8BHCXr9H/McP15zNKU2a9jUUrW5ng61oT65Jyee9dmnvH7F9Yn0WNOpTEOtpN3knaW2QTMyeChgJCiWzbvKwkiZ/8AlTKkP6KyGST4COeCp5Xldh3JRJXx3oBmhFP5aV9h9ePBZ66dP0f9D9zvDZB63ZrNo2nmLI++UMyO9uzt2EGl0uT4/m+P5etTPKhDv/XTmF70tFcd4Zuq0YC1uBJShjTLknJEzpNE/wCQ5GVTKUpjnklmZv6166vU0xZOKnY9UYTrjZ21P7A+wZnel9OjR/j48fo885tNb2u91zYOr0LXmDL/ANmnfI51zwz9dmxy4CKJY6GuK7+9v3I7OW8a4Y8WbV1PY9bVY8nXDwJMQKcRUQMAMhyqqcH0TRXopKmyXEYwrn7Hr1lgXsLMy8JBNKVvpvorf8eP8j9H6mqTnjbJkyWOsSQXvvkY4+q6iGBEEUmIrD/nKPXXBfie/wCKQ+JU+M5PjDDqsIjv6rsumvBW6pPeCjmdksapwUSwIX1IPCvq0wPb0bLLLIEaZaYddDumB9ixalL6b3tYN/kfyfo/TGGdrHQe2HYjsH3Bk6zMkdnXclkjlEv4ehb2tpSFZwvp7nL2urt8/aZ2lSYeOrr+96nIvXr2+VGDSorSdHUgJxXVySTRq/1Lgss1Qhi9HrGE+2qW9/d66dVbXuWDfk/4eOH8BF1+Hj/yf8EOmHS02jRi6nrOngQyt7FxyuX/AObXppZ8nA1Mss74x12fqUxTm5qe9hny/G+p7bQp8yWfJNMJIKF9ff8Ar7HlWOtdIdACOEEVaM919l/YtSltFb1uW8hvwf8ATxzyVz8XIEzZUQ2THL40/Wyy4uqhjSAKq6CaZDn9HSWj0GZM6zY5FtdLnQG7W/RdbelazJXKFoGS8dKAL6upUMTeN8edcvBwcHCxZlA7nsyxZ7V02va/sOAD8n/Px48fSUiMeB2zYUwY9QtPk1mA44FIIrtb5AD6DMkP+iRFUYlK1Y8UObZcOXvdxiiLTMSrhVnWGyWn3JdSPcMZtnVhrGwXVgoXvdmnR7PXRd72v7Kx4G9vwf8AE/g8P0eZWl2slkf+qCRhBE2SVOG73Do2zGcun5XD5Ad2aeRlAUDnsznQ3BnSHYdt/QhW8QWRPHA5O+e86Bjx1ZEUKVM/+dcqyVAHb5Dod3vW9b1r9Dg4AP8AY/g8PDw8hFIZIS67N1ccmaT5JYzJ2e86wUD3rDX8fn8YTppdctY727M95XulbJIQ/ik9ZtZueVc8i0388twNmeDBgeCZl6eCoUKAB57XXsvWlb0tSgJ55B4G9v8AU/k/REOLjj1+DbDtowXJLL4KNF864jddCN7JMq4E9OZMA66XSJljBIKoQDvezLBy8mTiKiJP0KGcUhxXV0A4eE+QRwMD7X0dz2FraKVq9fPPPAxYt7fR/wDCeQRMWVNPZNPDuh8h635HPYrqBJc9InGcZjMT4eDlD/L+aymgUKVRBztO239svKObJQWladpXVm45k8GRphCCxYlv6Cgf+ldPd9tat6XtVywKuW8luA/7H8H7k+Ltv7zzWzgS2Y9PT7ZUSk2F1VUXMcoxUgUCeiIqIi8ACBS3Z9l3PcHis7ASUDOTZdqaxZUWEuRKFeAuzGriraH7W/yPf3da0rW1qMSxYfR57BvPv/qf2gghGSoz9jxo9e/VbMjJJCKLeYRRzxZgp5Sy1GlXXit/W+vT8j7XvPoDniQ95PwSmkmVvX+cuIwYMWdtLSG/lWJdqve1au5bx68DFvPueD/wH6P3Jf5SlmX0/wDlMiJi3dVoFAyLnjMAnnteivR9/Y59V65exf5Y/wAv/wD2e3vy3kEc8+Sw4Egnr5CR5B5sEVUIIJaz1aHNsNkGaj2rajHxzyWPCxYsGDf7H6P0ftL4+xzdmu7DpSGqF4Z16iyaJcgiMhDFjyq0puvqfIDH5CoJZWDhgRwAcPDwMHgo4am054+Z6BuKyn2dtd2tmZ+dtmelrVo5IYnh4W9y3txVChP9j9n7lnniz6L9pL5DgumenUX6RKYjmaLqQQRw80to1dtaMOqKN2fx/dl/orIfAAKnz5PAFCxExNJNUvK8KBlcMHs+y0JzC87WOtqO3GJB4zE8KkeAqqAF/wBD+T94VZwP+BLZN3UVVqZ74oY4LJkKcVvLtr09rs1dn164oNZV+SdAApRgQRwHzwcBlR7jTNViiB5XjdNaap6Ee7aDmUAHs+duWdmJLFuHhX1CLMIAFH+p+j9n7lMYAwzGObsV7fqNM38PFWi6MrpT306fkHZa9kJ9ZjzMqRlpxd7jUIqKq+vqF8ICPCJOAREvoo0TO4vDXipA6G/gi+xbWPkFCSxY8P0FKBUHqFChT/of0fuDCUWdzkzwbtutGLvMtL2WiVnpz3Ry/ZDdqlPr8SSTLKBV2+Q5FRFRQoHggAcHEYuj+7M3EkZWJXMmSKq6hHby9bt3edjwgAqJgFfAAX18Hhf/AMJ+jycsWArJhrfH1GLsu26zRHvB3Gfs+x7ifY9f2UWZtr9ln6zpoYxxTFSrr2DXCoqKpUqQAeABeeiMiicpmayXNHOiAglnZ6O6L8nJ4eeCA3kAKFCkHnsxP/hP3V00J2KLmVMFs3a9sBhz2u3Y/wD1Ox2YU66GeRV8s+qTE5lyUwz6HZ5djgXigEk8JLEoyKvBxZKqIqrAwCIEYHyWoxH8wO7i/wBH6CeqoFCnhYknyW/8J+nZaZY12dZpTstKXzdXlzLPLXrYYuo6jrevXNElQoT1aY4XPHOVXn3WcAcB8lqOvAqKElD+aIVVZtJWdSODhYszVaXHoh7WW1CeAIvqB5DEknh4zH/wn6coCsozhdcHCufBLp3XPKnW4+myYMkJcCjiAAhltyaojBGencUJCjhLn0QIqIiqgQMAeJIsFAXhYkcfjk0RQnZ87mHgAKoPCRwsTw8bhDNzx/ifyfp+SUNizjRLr4BJ9XDeidJDDRZL7IspLxVUeGNWOmRfQ+iPHGjJ2OcMSSeI3hAOIToN5WjOaE+CE558gkuWShgr8uO5QBV55LFi/wBeTxi7O314/wAD+35AIEhmTJivJ8Z29WxGlo5hHPAognzx44/KE6P6SEs8stUNe/wewbzwcVQqoees4RzhloGDDgb2DA89bhJzWr3pthWX0SWJXgPqA7PQ0Zv/ABVMjklmaPSUfHG8q9b1WKrpnVVGfhAZQSG9qsY1ancZN0eE2c07pCQQw4qog4VEi0w9ldHTg5bUa+y8RQvhlRKNZwNc9yFixbhYKAS9aWZiSfwf9D9Pyby3Q36O7z7+uGSEEBnIk8CyMuFkICoqCLSr1VsOJSpa9ZbK27LrDwcTicDBjQ0myqJ+kp+L6pxCJxFUMyc9W5e6036WTt0LE8CheF6WZiTwkn/Y/R4ee0ICD1ydVg6bOV3Q7Ge2IcpWXYGsXTkpzkFCrz0KNjnPW/vryRhelp3RFWSrwcKJmSakKETjqM4VQirzyFUc0vfTXYhrzs85UDwAWerMSWJPPBX9H/I8o0DNs6Lqj2Eb35BZ8xSN+17fMepxSCJJJ8QEjTMAeCNWnbvwdjXsN/YpY87bHxKB1UQVRVOTKsqiZ4U/mEpSQKkjh5ufRcUyDnZSvEDyzOzMzEnnqeeT+z/keXaHM0zwv10ceKkI48OMtojDqUV1jmhAFODmhM2dQOHlD29NN82y14R6jFY7895IAkuLwosxwTRAp4VCnlXREBYKOOexbsWk8HLbU7OY4WZixPggkk/RP+p+6MDiM4Dr5dRHZhrndVywSDiXKrnhR9faYtEgFqZXTi88WPZomhHzvk3JtSL6OwRBNEWfFi+ZIrNE8sQvgkqoQFXebOezPYmU4EJFd8CxJJJ4SSeEk+Sf8z9H78UjnhkpHY/IZIacNIzlBEKpH0Q05pyZZSCvRJZwV4WsdS9pBKQVYSZ63eqzWbJxJSUx/igLUdWB9jzyioHYjzRt53yZ5GZmu5bA8P0eHhJJPAvr+z+D9H7sUHXGEkzIrr/z5myNK19WeyMXDeoCPEgFtGzFsViXZ2+SxBjzNWqJM5sUu1zQ5MjkiHJNHu9ZcHAPYKnAblAjO2saeVeNDxBuSpJPCSxYkgKeE/4H9H7twDrly7MEG6SWcwz4JZgPebSJA4WVguYhm52sOswivtWj07fOubXfFondHu+Zu3nJUZFlIrfU90qBMKGJZeDg4RVgXOs7gqwSM0l21Cx4eHhJ554ST4C/s/Z+z93EuSvE9R2MHfHRM16dlu2w1Z2kwJZllMchxeEPPTqyuXUXTsTppr5Jcl5wrzAvYmZRYR9q6tNmaQlyYLC6Jwc8uTyauNA7GsJ5pLEc+T7CTwkk8LFvI4F4T+z9n7P36lcgfPl2dF3ENG1dfbJvq/XUkZs9Ox7LpOxmw5FlPmp0QWoIaiXHZ4jzMhy5ONmxL2bSzyRr6dGcXKcksUnzSckhw8HPNXkCPOlu5Gdc0FW1+/0klmYk88BPTwTwn/I/k8YyGWejPLB1XSqnybSl8lZPl5JkelGw5+vmniXFb2o+i+aInceuk31MkJQ5mygwft7m9Nh0US9v6I0jJ31pXO4YEcJpya0ZhsXstGS2bsqdrt01qWLc9Qnr5J4SXP7P4P5PCM0oUzaelgO32d7tdxnfKOrpipY7uw6TahTgUcUjmnkuZZcdXZ1+QyRcSSw5IGGs10VYp1+B07HRAKkh5dci5kUc80eXDwB27LTTVjc107tfYHhAX+fgsQeEk+APH6P+J+sSXaIp2abm0YOu7oZ2yP4NDo0p12mFJ8HAEBF1y5k5WoOldB73QG63bDuW7vV32zskdFlmHNWh0hB1NCtFyKilwWLiSuwJPyjeXFGuW8eoXhJ4eEnh4QeefP8AofrwfqF+scIGimL4/wBrPsr5p41lHMmRarfH1RkCAQXpXRCpLUkHauns7hiyjgqqThCKc0vqtCKJWaZ3RpyUcUAOwdeeS+2/e2PCOAH68HhJPg8PCSeHhf8A38eJJG+a6Y+u6PJDto7YdVnPM1+tEYbcuZYIGF0J5R3hIsFndgO6vWnghRIhS2dp89tTvBjMyVEofdGR0Ds/EPCav3emtOeDzx4PC3PBBJYk8LFi728+f98ELLmfNpz9lh7D5Dt0yx5xkrLreILI88jSWSLyjnlaw47mgV792hYuhd0WXJLMyfQcyPKsUSSjjr6ySUiWZ+SVi7vX5BY/ZA4SeePB4SWJLO7UNSxP/hyOnHesmnlHcMnWTviXPl6/EJlbmIlpk6cuzF2zF0Sd7h+50/SLGZVFRQJ8eIRSayVWJIYRChy5DLx3vejb+Hg+ixPgA8LFyxZ7NZnJ4f8AQ/uHJJqHWIrZNHZ6O36s9PlQPjv7KKBCmWC8rw8XPAetX7HQb9+hZeeskQRQNJM8jOvL3kgA4OMS0/okhA973o70U7pljzx48lizMXeruTw/R4eev+5+kVS9cV6U6rMkijz37MLoeCgW84TXgLcJXkVNtOzay6duUmPEIaKckiJGdK7+zhFFKkBqsvJEkktS5ubWqi7ZdgnAp4WLF2qaMxJ4eHhHqEEhH/Dz+T9y5IVTNmlO+jIsxtbuD1jFS6VFnrm38QHnpJNu1ex0adrJyWv5BgQAZuBlWUprfXq3ZoZ8wUluEOyTVWZ7PauqlUd1B7daIyszO7tVmJJPCCPUTMue3n/Y88/UuKmTOb5GxZsKe/Z7En1cVm8PV601Bclkcgtt7LsNkNLtqJOTHUac6KHjdbJofbfTLNjxhfDB2tpOmd/6nTS19C0ejsOLN52W7l2YknngKF/n/Mk04ECBfH48+f15/CtG2APDE2XmS3Z9vq7jrFwwVHWsf+euOGBJwa2nT2ldhdCarzJB6Ps2kPwcDC1deSGWCrw8d9FKBFm99A2I9k8AlEBubdkasTwgoFChWdrngmJBRwtzx/l5/J+g2fd1jw4ldXcfI+36uHXRhP1RHkU37j8gn2g37u3LuhKv7wut9LFHi9TcaTsmM3W5MKr5LVd229pLal30bdsFin8bwDScCvIT+RueeoX0Kklyv8BAr5JPCPHr6+f15/z8w7KPeP3enYlumt0ko88IL336u7vDRks9+3XrNmfNrzB/d6Nuy32vmr2C+c6JLrowC8J9mN7dx3a6YOLb9uW/VwWXnSWWRQ3WQ79hL1JLEenqFCBGg7f2NjU19y/5P48+fPn9H8IcUMHWdZikoNK7bV5290WF3fs2V+oq+bsOofmapxpPtadQnbNKefJLrsnWThS4saa+y7Xt76oPJxze2GPVl+atyb5clL20a66dussCOFSvr6gcHF52GU/R4ST5+/P48/sjx+AFHx9eqzgo7MXri+Q6UNzOmSnZ6zXqNGVtCdrmHEo94yKdhzOnXyiG1V2h+a+x27NOhFTkGpqN+vWPDXUqNgv/ANF9U9HY7SAPA4Dwr48eAF4Rvzkk/Xn6P+Xng4eefPD9eBzNLKOr7eDol9ubQz/JO4ahdS9aVevQbsuv/wCtp7+S4s46zNDs9b6J683YS0h1amzTv29xfUXFTcULAYkRjauoJBPV53rtsAB4HBzzzwR5HB9a4OPo8o378Hnjx+j9jg4OdWidTg6uCdr276uuX5V3dNLVTQ2ptD3e41D5Rt7uV+u73N3N/kGntt3ao0lnV+6HyCfbW17+8/oGBHAABwcz727a+rJWNU0vrrovrdhwfQHgAcHDz14Prx2sD9Mxb8gfo/g/jz7Bszdd2WTttfyfTs6qFdXa9w2hdI0NU2arOXLDnkMnf17ttCGdl2PoSebJt7TRrH0ODg4ODg+geDnmGht19b09vPnyCOeOAD78Dg4OdjEgmjn8eRwfXjx48ePHj8+fb2LTpLVTbirnl1c/nvdoSVZiGPPP2PocHFZNA1Jed4cVt3ckjg4ODg4BwcHBwfjySeA/XnyCCDwfQ+wODjLdKufr/9oACAECEQECAOv9PSoPYhDs9Q0iV05GYuD5MqGY9CHd3QdETpySqHVd2VVTDPZCGnseGfVgRmHIniSpThhyQhCHeq6VGZ9Q+ErM4OTxGJKcDMSEPU1lM3pjASJmYZ+ODK1kEwYQ8qIReTN64TCZ4QM8Lxe93hncdkw5CGq71U5OTsPG5mQRmeA4eFQzu3ZMMx+/u71VVHPPk8ONnIfCMTHLDkqoRZblZnLVy/rx6u7EYFTPkz5Dy48837Y6Zjl/T7+zO/r+lIQVeRnHx4YVsSDgueeefIeYuctjPgFgy+l/bmYVw4S71eicmeecwPEl3ek2ypXw6rQTAwVdEpONX+mecAKqu7DbLdOiGr1esISiXAlmbhnnY1x4fNMquzDeWZLdUQlVemCTjwZYhr4+M8mEAmBEpV7JLvJFYYEYZ/1/pbDWc4njmWsAljM84Y58bCce88/GoxSGBhF0sszls48+ByAwwdrWItOFcTM8/IiVmEIq6euEzHD44efFMDXxSLc42Zhm8j6sd5p1T4oi2xw/z8kIFZq6CvuuTE388fD4WlEV0FUhK+KogVhMCr/o56on2vHyckww+PjDjDyplV/OVVVRpDCq/wA/F8oiVKrTMYuGHwEvydEX7wA+fiqqjCoT/PjGI9KTROPA/A6r5xNU40FOq4+LAmcIibvfCHvQfBgkIOzToOHA06vPd74eMPc0P3cCmWaqVw8dGmJF2H88ODDDb73esG88/wCmPJhP5fxOMNMYzOOyE43pd353KlmY/awePO4Q2xbYmsBnE6u7gV7IGnWefHlwcldWWRPhBvjVu4AfiUzZmzjMHBu7lrLMnPV4NyqD1qKZmbk54DKog/589HVimlmMwhKh7szjPu8MN5uEJwOjoxdLrCcQdbXxNMYjjhx1tADCYt3f3926W4TA4Y9LVz8rjLADRKoJfBnLc7u1XQAGCurVfE06uoarZKzePkVbu3oawijjpVl+JuqoIw7KTjzldaNEq+NW7c78SVVVpe3Dx/6uMeHPPS98Zms4nJi6PEht26rp/nefOYRZXa8JyReN+nO4Q8SWSl09CKTjnME48JcrtxHIy+p4ku1hp6LCccZ8X5YeI+AOhhLg3bojpfIj3tzc/FjMI6I6veMydPlh1v7c79M4OrvduY46YsruOGr+7lVQeBEz0arQR0Tgz5cGVXVdEFZVe7xfwohFYRHRMNU7sdMCENX9/wBP6HJ/T+n9O13o0kYMxMyGFYTCLbnYwjnYsHPO72J72yw0Lhx558eJycn2pu7gSiL2PW3S8YvUzvQd7vwN/wD/2gAIAQMhAQIA7X+d6nu+x6P5HVnk9q7P5M3R5p0Hs+x25IbF8klxg9X8mcOg+SS7YN/nziDFHzTodH8mYhqkwRvyqq3T0rtVd2IwXNQOt+YPmHmgJDR1fBlS/I9HVU4aHzGL0dP4s9GluAard3L1crbHddb8XREzhKCgYy7hHvXSoStr5pLQK0RjpezDbGXqq/AjMIwE056+HD4rZM4bYyuxHoeWYMI6XsCVRHDa+KPrnohHdQei3DXwmzV9qYeiQi9x+76DmdL8Hd34InVbvperIj5Xd59Hyel34Xdi5/gvyYdCMu7uXdwPK/xu1u9jeg0vjRp1fsxjnZutVUNL+7PVfAOrlbuHtfV83rVQKpAqv3vepXjXpeq8nodqf+G9iBDT5VVfldMD5qqslx/4TphDa/8AGYyyDbne7uMPY7V5Oq27u7dnsdKrye97dOz1rdejq/B2StPmfhYv3Z5HufhzlJAQ6Xs6ujuw/Dnp0RhDuQjHVHgw/Dnqq2dK0HU/U6phHqbYf8B71XR/4Luq7EpA8qY/jdvgDH1fypW3oQb9LetVVe70qjQuj8j7MYQ7VKN14V3dB5sqv3AT/9oACAEBAgM/AvA31Oi85mkggiTLxL6ZJoz15tRoZlvHTjPTFGZfMXjUxXjhuNl09eXeLWzLxL7LovK31szQZZ5uYZl8p11qmaOI9hVZl8n1EX0IdGXccFTuszGXyj05R1yy+WxVdF5Fi0sVq5oMsrgLfdF5h1d48F6F5Vk4ZHeKq8cxaYk9i8ZejFqZlmwxEYrH5c8C+4qMVfQvFrFpWt2pngnBK4DFsuio9DF4r6oHss7jHBYj8UnBvoe09DFV6l4VxGhaUei5ZnYuiMXUy3jfQh7CHoYh7L8HbZQjvA4FIsVGRiMs87ET4tYi1WKuHEQZBmWl9DFqVO2pxu5iIolxWLirFBai1OivA4HR6raGKmaBlhbT0d50OfGfRE60Ri7jJw1zQLavRCFNbMU7UyRGjLHjXhyyLWjtOmDKMUjFxn1MsDqjPO2/BZcRmjYQ7CpkkdFJm++pUZ1iip1HRCmjrmIik6FC97rMsj56HgHrZME4aqjo9SiqkdFIp0IQ9hQzNL3s0F9tcVSi1InVI+pGhD2WKjP9qOrMs6lRnbfZd+A+uC1XoQyIHFtD1uqpExSJZP4c0Y5rajq6flxuMiaThpmgXPvA8MVReiHojF99yBSQi1c0GTERVl9SM078TRdfAuIitnFYIgjFFFI9pEwSYjGTFIx0zXJjRcYhl6KOC6LwGXFBaK5cWLQ43XSPRhkwyPoThMX4Z7Ix9Nm9HPDYp135OaFR6fW49CMJAyMRMdDF+FJEjqqMUklhTsvhPXmkXB/LxMzQxQ4M23GtaJ9mImOpGKCMRP4fQnD1M1FotTvxVIxbTFw19I3R1WxOlanozGWazJlrkg9GfjurLcpUdVssWhk1gRCejMfUZZIRFFSMUIiZZlvHmVoWqSaTNMvcdHpVMpmvREyWqzKPW/JXpYQ9LrFPnSjCQqs9li9Mupi5bFy4HRQPTesEEeqwQIZMmKPsZqZRwWL7LFyXR+DelUVfROKkEERVRR7USRHGQ+cq21SPvokmZH3GIiBakRIxUYtU8F1mjGLwk0XcYiBkVYtiInQ9CnQ+Chk7K57qhiFWZEQRrQ4HJJMGIUGJk0dFRRyr+AdZ0TiPZBhgzaoI9mH2YMXcy9DEIZL6DInFoYopnlQRhUcm4oL81asWIjD1F0gkzdTDExrdMPsw4e9cMkQRSIoqvCMyQx4p5Sgc+BZGEY/k9kQT6J77EGEj1pmki0KC7MuHWtqdleBZPcQz2RHQgikaso+hM1wweidnFikQ7cNa0PwCJ9jFomBjIjTmI/DF0gxSST/N4e/gWIZ86HWaurMM0y/JLeKsEEz/AAwYh6LF+Uo8F/gcWlkmX+KSPQyda2HWBUWhW5SHPgpnuRRmKLQYsJm2lvRgM0siRap8qiJ7HxTLB8nzx8sH5m292PZhgnF4TCfFJrOE9yOq4MQycey6R5OaT8kEzT4MPfDJhj+Ue4j5EeyDDBPoxY95bjMvhUIn0T6MWL4PclrWJ3cXYxMmZGTh/QjEYcPyfP8AgXSCcXYiaInsTtP+Yl/xEwMnF0kySnHCQty/hY+KYPbMGHpAicXa1GetqSZ6xA+woEZjvHC77li/hHJ+wiZIw9/8EQYv/hmo9r9zN2FoZGGeC92/hJdj5IpOIjAT2PycLxTeTN1HsMdpvT41RMdOa/CsiCDCTPQ9i+qScUuSxlwlmfTM95EoLD0X6UWpRaGX3V5SSY9Ez1Owux7HCi0GZQXXrqXQzNK7GbEOwqui1MlWIif4r/G2h8FeFw95PVM3d1UsiMMzPU6z3k7Ud5L7c1v0W+t9TPhXYjCWFTv0LjIGIW98biq96wp8JYiIsXvonFJH7R/uK+49Tgyz+gZkyj+x2wmX7mWxmkW7BMkjr8TJ35rF4KJO0f5orYS45tRb0YRT0M2l8FbjL+EntRmWNLkUbTIgei/qjvEb/ovuW8L+1MsW6/8AFHpzYviNxVZ/kuOC+6xbmbwkEYf5Rij5JnQh2jpHUxKcX7QTh663OlU6kQIuI77q27zVzReB+T5Ge6RF5O8iJxEYYrO3YeGnSR2F1PqH2Fx76Gd/AsiOov4T3c9ma57HJlgnHL6RHbRlHs2FallRl6X496WrafAYoPgfWkR0HVanO1YU6IVOxmw8N+I+awM9C3kZtPeiouhMnumWeEtN9H08/wBkGb4IIjgOxl0syzr+nkOqwz4Dv0o6Zb6HuIeiw69qIYsOq+p7S02XOR8ORzeT/FfZLHre5/34O8aZpYem/AvpeLnfAjN9h2gU/YQoGfVqYtuxYT0WPepoWp7Vi+juPnTNI6HciKfmfhmUvS8x7pYn/A9hzqvoQzKX0IvwLToiB+AiOhlvPUULvNP4fvBlgUqqU1cmWdharrtNIjqYfZh9kWVyZfzoUUc8Dt4WO5mnPPSOh3k/79ycU4RfhjmnUeAcUU0tudYHO3fgvF4WZlD/AGHV4JLlzqLDoeudX/A9S4qH4RmT7iuKH7FAxYGPFRkv9z6qzhJJ2usjh7bvwbeGclvjsOIJ+mCw8KMuL4FsKVqej6ZFC2Voe+34dl4+P/YpGdDvB9JlmS2mWPZ6ihHTZfDuKfCoyn1faCZw/wCoyjxRX6x7czX6quJjWtHbedVI/DMk6fFEq/XridSGOWNCGKX72EPzSgcUc0iBzOhUkidTrYmadpFOytK3V4bqOUdqxghn5n2LanoWp0yly2lEzuXH5DKqZUZ8RcmZ1Rh0XHrdHApVWZta09i+zbw8xSUTimljvoVZr3OxmFqQ8J9WhakPQoHOyt1eA6QKNHU+kzSKlj6asWhDPpPqq9SGPR20ZTNpsOdzvz3iI0syYNNqdKqlqMy4R4pFpYj0ZR6FqQ+Eud+XScU0uOmeV2jYsR1kjHikuWpGGl6zNYwjIge0+I45tzNIhCsOaZYXfYRj9mLH1kQ0IQ+4oHRCJ9Ez2F1H02VSZFxVPOVHNIwYZmT8zE92SZj5HrjD9ycW8uI48A6WycOCPZEHaPC30f/aAAgBAhIDPwL+01eQf9vq8ev/ABG//9oACAEDIQM/Av8AwRP/2gAIAQEDAz8h/DkFqw8vzjgRsJo1QZq6+JZ0N4RwE0NZQkvc/wBCM/mlJz0JYdxs/hiGqy9dLYsNYuLND9OfzE+whUglUieJv4hBd9MEiy/Za6k/0/LwFqSiLUsQjkb+OfhQ4J7DkQr1Zn0+RtD/ACsv4LE9MBMTHE/r4MNUhonq+6pD2H6c/lMixFqbLTSVF5kR8GVSHVAmPInFFehtbH+Pyf8AVGVdGXQXfDCH0RWCSKLAQbSvyWffSi5KGxBNDWCSyw/gyi8k9cCDon2K1m0Ox/kIb9kOhNiCJmpKlCjGxtfAmSWis0isCdnTmiyE/Q/Nfj8lqbVL0tSFjTLiXYR8DT7nBpl//r02v0J3yHkvxuSHFYZNIEvk8I8xEkonqfwIJRp9EjQ1RM4MGSrHJBsTOzSGuPxl5JC5LwQyCaQxIOYJpWGbCG20OB418CIEEkkUmqrobWRLFEPwxbJDfA6sY/wv2omCKTRFL0vKIZm+iM5QnJjDfXwI3JeKSRSatCKGNojciqW5MRHTN/wcewSRWVWKQRsSoZQ8MoubWSxiPI2+Nd+ZAldiCF6cF6sjEkMaHwPisjXJFnTj8BDkTi4HSapptEkmSpEyWdmH0zIiQlSZIvFwRnvT8FjEvYYSQ6tEL0fZdc4NMh5XwJEvhWeLFqykxdE50PAv+4UfJEQPkyRhiBwPs2np0QT0R2Is6ZJWEzSSOr+0n325Iq0vg2tMTSsKIIyrGM5EpWGINvBKHAce6aEo2gfAzkVWuSHLYkyC00h0IsyaTSKoaujkQ/BGS9JR7EFv8G6z1W6CaR8KR5okbC2KkC07kBYeDxReQtkavBDyiSCTdE5EOnBKCY2k9l7aIeiRhRq1JVVWVXNkL/gNIik/jHatWC/TMF70kikFvfwvAapMkFoJpIQsGQubpRexDTQoWa7LkX5INMnBDuTTaIuE3bdEvDJVpkOC3QV+qFPJyYcHtJIJPe7InrsT1yT089Mv4XhLEqT7Iz0NrEodrBeUYZb2YPY76ZUZUbLUhm0SkTcwiZ5WDZYtFHlaMGCSaaIhDutRY4oimTL3FlSe0yfw2iCaXpJHRBFvh2+SN1cjwTWQkl9CYTQ7GDI/RgdCK2LkvZKc4LktGQlxRDae8F0L0PBFyR8GGnVNDMYo3R5PbQQyLoQpDL9mX8OUrQlMR4MpkN1k0pZESWaY28C0SbpAvekUkkHMokgE5/C4tqgv7SCycEvBG1ZdiM9EjaG1u3Lhl70TIyNQfRYhkdMPivissomdmapsbUoTRGNCCaNq9JJEOplqsjBeoyNSoyJyLMlnCGi9jUnghLyf2kk0TeT6E24We1wPDomJ0RAPfZyyX8X9pZ6o1dY2RlEUeUMoNkyLoTs8kOqOmKIJcQNsUkLKLDW5Qx7FeRPIvAkLOhaIRPReHRBCkbk4wLyPBN+SezNRwYtE2dBt2dIn4sM4aJHij+jBl1JCvT+hemQpRDseAOOysUbwWJTRedEUTuSRaGSbLWLCT7GmpBJo4ITwOf8AXav0WMhF0OwJ9iE2S/jpgWMk7CN04EBk3ItNiSMMh5IFROjyNjINKXmeY2TOObmBkisZILkWq5OiU0QxJaWX3eBjORBPA7WT02LEW7Mkd7xG4J9VLw8MiLDuqpaFYY4HSehii4kxUbkrBsMiLwnsHWuO2oIgqkS+iFYs7El4E0FrsjpBwT0xVaZNZrHt2JI+BfO6pAkiiVmrCyw4v1W6kEImwlhliEVoE1zVk8AvE4IpFjVjLZIcCGg+xIn2jIPBPVJsml6pEJ467C+FatNiibH+xMq3IwTkS6YCOBsk4VGGycsjZGwV3ZyFokSLwpLhZASTVJElyKFZPVbdEF6JiPB4rFL0lUodBSaXW1+HGX0Q4ENkjwIfoW6ILDQ26wI5E0c0tYwY4hvAogmzYlPYhYbJMHJG+T+kXJ2aS48n1yi5aioum9LUiiKSFfx0yR8SSZaxsLInKE0RS3VIxuJrFJNKORDwJclgKLCIhpiSHk/cdtjQbIWG3LdEokBxtFqbHPWmLsRnqjolF+iPjNE00JJJEnVqjaiZknLFgNi9EXRI/ouvJGVsagUCxOKMbOgg3sRdi790nokQLrnqv1Tc18m4tijFU3CUmRWRXMSwJnAjCgkeRqkErnIuK4pT4HYgoyWkxQl9bQbN6oiREkdyO1y+TAtsRWJ4FahLpkKMEiIVXQ2BNoIyhDSKGtkLyb20ILkiw7soS/FSHikvqhfZrgfRPdgnpiiCBHyp6ELNZ2GkrDwx80SCeRX2LaE9k0FroW5wMKP4TYVrBrRKeqKJCMpg6GR22XpJJapFbvsR8NPUkeYwYYNhGxI4ojEJGg3uhGBYVsTkSwb0pVQkgR0NiEO4qySJdsmMTBGSBKuxCL9ifhwWJ2NDYw8sSXErDg2KJ8nIU2uTmhl0fFPBIoIAoGxLIsRPIsEoYQIQqL1kik0jrdBKITfReqeqDkn4sCyZBIrCRobOkswoaXQuYFwKiPIqJrmLZebGsjMSG5ssogm6LQ8Dpdw3WOiKLs8iEOayqr/OhLIxRMC2ThUwUJpKDA1I9LC4EtdG7rOwyF0kMD0IXQgRur0isIkQTGXGjcQ2d9L6H2Z65+fCubG6t0ZZQhMvNA475EgsC1ZUmjoguT/3MEyRGgwIe8CjGTB0ESEoQuYyd9dSfTHRcSEycdd6Unz3mkjNc9EK1BaQYVJrROnirORDgjNISSPQ9skOLGxAbG2x0JkJPRLb5o6RRCexIjJ9LrmmbdE/Lj0aN0NBuLYVCDZZPAqFVUSXJRcZ3SfBlZOJt1WrcYkSrwYMbpFETgdGsDJ6576n5cyVwtx4M5cscWHkuM0HlQRNYw8UVbcHy3HhD7LGxwTnpVG7UhXIsuzHwYJ6U/M2ysEri/8AQz9kZR4iqKGcuiKLI0iMkpFw+hq7wKL0LssSEbmxesCW6/Pw0wn8DyLuZ9onwSSQYS+jSh9Himg2689K1M2hJZHPS+/oucFvI+hC57yS5st+Bl5gTfHgyTuPCFdsuBYV4oexuk9EYH1J7OU8YTbJLpdDou9AohP8E07HE1pE34YPAsFz1+h5SMbs3NUuhCpHcTnwNvCo9DdUJL4CBBskwWX4PxJO2fYsqA5xJk0y4zBYTezwhJs8UQnscdaSyORvBZwuwjkLboVJ7Hmmvw2imMn0yavA0bkzSbdH/YGNhJNZZHVJBoOFORGZktNhN3xY3H/oZHC7rFtcXbY5Z/CvB5yNcITX9jX/AJRgSTycTFoExpjhUkjrgwgeT7Lz/JjgRE2ee63SKMZC7EEuklp4/CzOSaEWSblj3YMP6jMjIJ4QllmA+xGc9cUXCzAjRkSEgyU+mOYz13Gx1SOCKWyCW31zgvWZIb8JfUbk1RT0ZN4agZCJ/ZtYdK9wkjESVlxq77Gmax+ywFMFgOAuRl2MnPaSp5o3mmy7YvNJP8k1v0T6H7/hNEjV20nGxYCdJebI1H/A6YTZbMKcB5QQZUjrad2/A+Bs/wCzhFJGiLneSAu5NYzSVLSYX2Xfjokisplii3P4SDY5RvcHsLMGmxcd4xOBrXN75FyqYrvoWfsUF6WJTrC2R/wC9iWPAqt2VkMvTD7nFXWINIz5pHXBk3bSSx+EbWEXcEsi8tibISHn9BM8awuRl9l+htG9syCu6uRukIind2zllFi5XRN1y3pk3az5I2VPFLEFyQS0qO5FO3Xb7jjGP5+EQwIXsH4E2oELCF/Q8GD8BlmqyJ8N2XXtP8OMjHYGy4KBsk+YLVLghYaG8qiVVixjUo+HaTQ+hJfszW7c/g71awv2JX2hs7hlTLpFHyZQf1jj0A1YsPPJDU+2Sgzc/ovYjsPVPJKGtLt805VIez+m+5OSEtP8GkMbQuxMTd5LI2LyZN9sd2cBvaEPBehIW0rk5eBBSL9h9MpxPy8E9psVF6oXZnA6aKS5z+CtTZxJCWW/2ODe70ObaL88kv8A+wQFjSP8jyJyzpcC+yxiOxA2tSKTuivLJKl25IJI7TOK8svP1+DS0aHBk9mf+zpKCmdiDS7f8GMPBvbwcm6260dsmA2OFIOGP4WtS57PAzk2zjpjrgtT+lygk1x+C2E/5ROb7yK0vGXRYujI/siXNsjJPZbPYPiI4dD0QaT7D6P2PpXjs6plwR+AXEsmoSQowYQQ+bjwd2LzPJN6S5fSE9iUseZQQSLE3E4XYTd1g0S32myKpDdvofoR2bXMRsljD3+BbVkQ7wSN3DepFF7Al/8AZMMCwqpfeCRKhCJ7CbliwrHysE3f+xDmQhuuRI46HYhXG+mei7E7cof+QogmUtfgU1k4GoN8CuS/4PWQMdhKN35RyJBux9y7JpC6LHU1OcDsei5xk0dngbR5X+BtYh3Z6WR0T0OSaR1YIWX+i9D1cnD/AALVBtkWcUJq2BMXoXuwJDCXvtkpOB6EV3djSu+hsjosOfovcXRM8xcdjVn5L2w7ofqFhsjClBK66103rHYv8mD9Mh+zTRdfNQSKSaLiEoRL6LSU3wQ7n0N3wQ72OBYia4XIbwc0UCM1gv0WLi5+WiH/AAlvKxgdjHccTfyNXbPI/gx0fsWJo/pY4+apuLTpyP6H7eqE3wiwn7E1yRCE9N9rBFZI6ZYb35p/2Q5W8jeRodpXHhuqzofflWxP7IHqm/2b5Lv383k8CSDbNC0uYJX2c04Jz2stIlbo/heGHlcUaXo7tj2UQlP/AKKxs8E9MdxNLEN+aIpei7+dDsSQmB8EEvkyCatkhWIILl+p9DsbIVlEHDJIuCEObnIoJLKROW1jqjrbfYsWfikC1y/zw5OcjTTCIuIJ5FIWuL6RhIh29iWR3dD+mRZ5ReOKTcPky/ZJWsSHJJCEjXUglbtSikMlDR7388rR7GEOayr+EKZTswf3A2KBgwjHzLMx4L9DWFceb65yJRFIJXsf2v6EuAc0cyjXKohCnOdUJfVLSPoZ7EE9Fj5pJAlktaXzk8XGw7cJkcVZI7WQQaow7EZ5IoTUqkC2IrDrd4L/AFSKLuUTR4wy9rrVZs+iAsYFZcCWa2qZdMFn2E1sXFyIZ4PA7tgk3z87bCQ04X2yCTYplhIUZ/RLyrjQyMztWGvZIe6P3DtfY+4zSSDJEuSGf0dvJA2L3lEs3l48H7pN2JFBNH8LFjJbsTSAuLIkImdjnw/wFifnyOGVhDT7Hgu1w4MOQU7w1DJPKxD9Ix4R6opXlSSvRN/aEx1T0pIUkcBK8OojhZC/SRE1xoY326wi5hUsWLdrTM0fI+fwMWSEdk/8Db4ES9kyxqOWpoKTwj6bE/ZCM/hD9Be+GqKd0YPK6YLk0uRT9FiVcOOiWRZUll+ha+yfokv6zVrswSx+EhyIpgVto/oX3E3LEo8CQ5RevJZ4IQscuuGJFW9LUZzoikXOKXhWdyJS6qDin2dYRhcim+uxPX/SHpEm+fwkWJsyH4siW2QpPBBMtPsSfKkgh4bP0C5cUlGLDI3Nrov0RWSCFxIUrOengnBLl6P7glwvssSl9Es/0R/x1R1QZfCJf8LEivmT2jyH7sIaDi5Ce0JTbPQwQuTHhSJpN+yJfLmtqXDJ6JnoQn4MvBZb/wAVtXS+6ftiXySr7IpI30W7Fv6WjyWvEfhci0OK4svBYerjyxI/BNX8ktOILLMN4XGg9I14pKLFj0ZE6byun+kKKQacwQ+EGf11R7ZLhfZBKXRJda6/+3W6SX8JJplkFyyJ6mZK5CSfCPGLUiC2SEn0x1EUhERD5bZMcHnLromn7YqIILwJ6pI6v2P6YJvI18r8LySINci9RDSW2LzMtSxox6L+qKlhkT0wJSft2PtEF4dDZeyJcZe+icHFORFiXLI6b9XB/TNZhrRb676+PeeBT7bGgVmy+8LFMrJj5sWVZkiM0wxxDJVYVic8WRH0XGm+mIt7G7idmUTLWiKLAhfqksm5t0oTSC5HRYmmqLvtqj+QkoZI1wi8NMhXIGWY3b0diELLqNZpFEzXJMEWuUKRSPoyfTBJ+qrIw47DbrCfUWIrYv2FRv5cWFdrIkhl3Nt7gUW2OJYG4a2IryW6ILrG3ZW0SQRBshbfTDRDHic0lzKI0wNqR0wlimETSxImiSKWpBLI/jr4G/nphbGlfKIEszIt4sQ7fvkSSRR0EHFjMsaLkROyV6JhMMhyxogOu0mH4JExJBdSTgXUSyzR2G6LkVgd3ZNyKc0sMkg+RtrtpobQP537whtxeyNVgcSMvBYWBujZpRc/QlHciCa4SQz/AGXeCSBjkgSJovYeWOlPoXElRZZJE0SFNiJDbxPcmz59kyIrJsL/ABG+aTYym8lkPNE0ESoJWGmODJG0aEtLeSy5o5EJVQuaCS7uNyax9klp5IHySSmq8SeCcd6fh/NklO2RB4EEIVmlkWBCllpQVIJpqb6GpTgRNiSRCP15qIzktx9FzWDgfQIHngw3Y3l1YyaQkQWlk7apBsvJwa5+HR8iwUgmUiwFayN0MhL0KO7uw2lCqAqLA2lZQrlnul4bJXCgTu6OKPBjafs4H2ZMYYdlh8GUkTXliWCe/c5rHyXzA1uyNnctYyMuvLkwkkSO/XdhfiwmsSHduIojgbJpZVwy7+Abdifg/RWfkyxLGERLU3sL/klLFElqbz8JbZyQ2n7Lkon8I5IZdH//2gAIAQISAz8h8q/HLx68f24C57+/jkPx5+OR+7RBHl3+p3+mUPYXh14N7bjwh7q/Xq/m34B/2I2/sWe5bnsU71vAOa9P01HjOm90/Xq8c43evgbeLX6I/9oACAEDIQM/If8AwRP/xAApEAACAQMDAwMFAQEAAAAAAAAAAREhMUEQUWFxgZEgobEwQMHh8NHx/9oACAEBAAM/EPoLV+lCfrXqjVNFOKDoQcCZAiGpkatbbA+FjnD+znR6I4HrOkaTnWdZ1sWoTwSRgSEISF9JKluxVk+R1vdFStmB5Q/H1OPXBHMNpEkYL4Ps7m96MqMXMGMGW7hs1RGH9qlo2QWocIdDOjHolBJbWxNCYLCWiXUkiF9ORGNamVQnUwMI3VKgXNZX2crZkpdB3FIwkZJqJ0a7MqdxE/7CZQNeUP3a32Jehem2kE6N0LI40sNwWoKlBUoJQLoQIgbI+kkouqYlJYI0pTTIE2nsN4q7Fh/ZQQJ4oMxkmsCY0O6cE0aHzQlv2LaHsuNsoG8EbGssjThqIun9N6osJi0kiNMazrZaNlidLUIqOhBBHp5Jx9HcxUoUWFJMvA61NjkTuE1qpIcj9LqepP1HtXUSJXI6tLoaqTUmgnWYGqeQ1b8E3YBu62UsyMxHv6I9UkehawMY9xuBaL0JCLaWEiNYM6STp0+intlBKURAkka+BOHsOZGlFxMWYoLCZQ5vVbr7HuiUmJjZiSVUTTpUimifEZIdacjQSpI1DuPpqRo6UWauh9a4fWPWRjdPoqhwOglGRI4EhW1kTMaSR9GWbbEpY0ign0A1yRwyUP7GgQJOsEk6LNGPgLYfySIau2Bxo/rE6R9CfRUj6cE/SlJ/KEnNisQYIM4WEkogSM8pBH2FyzJWhNxNGw9EjcjUnWxECJCrVHE02/wj6s6T6Z9MemCdJ9EaR9KJiEmi4kgbrAXEdAL/AJIYNpMj/f6E/QggEkCShuSiSNJvpoMZSxjPySrT5FIIeX2GQQ/tJ9E+ufVOk/R4MDosqRD0uFoqg2YTXSGnv9IBPr6Il1IFpeiR1oQErde6J/IpQTRQW6T7h9P8PoT6WSSR9KdZ9U6x9LERNkbHxpAporOUcrYqy7JMEkofpn6M6TvfJDTJWkEkCZNtGqowTWl/JS0d3sKlWJDobN9Ij6MaSTpBHoj6T+vU1tiEU4Jo0YJ01RIfsNMBRtzr6p+jJKUREhKIJ0WNJq6kxifIdCVKiafsj+5JgQlBE0HsSn0kkepeiNI0j0SRpBPokj6cL6DFASistFyE1oSRS1lcH6EMglYJegO9S+w4j+SliWmiRuJCCBmUsJobCcHsZIf8ZOpSBk0FXYUo2aT6A39GCdJ9UEkEkkEU0kj6QQZW0p3EkQSJiZAmjsRglNUEmYWUAohN/hBH1oElaNOoiGkFO6FcjcaHWXuKANSdP7GOJ2+RtM6QTXIga9MaT6J9MkkaRrJH0po3r0EkjeCVOlKd2mkD/KKdQBM+Ly2I/WY9cfQqCDrIgk2GiSSBuLkEK0piuI5fIlJcEBGQkfQdVKhu4nRlgioN3iJJqIEhEEeudWyPQ2R9OLYXahokTdSTggXaQQb0D/grchLfuE/1Um5C2gf5GDtR9Zwv9BNLooGr6Q66yPpplE9i4UBKhCmgiGJ1IuRVFwgKv/AlSskEjRHonR+iR6BRYjSSPqxX/wCgn1EMhiEZk2JIGk05Ioo7By9L4Y9gLkX/AExHhmctZ9epJHfBEY16HeyhOxDSSLD0VOCLDjdZGuhJL+GJquRKkWVWTo8iexNCKbFZIr55IXAwQewh6SQRrJJI3FGbkDdhvSfr1P7dFhyrEXKL0Wicy5eGMo/CpPL7Qnn2aLkXhSQJKCsv8FIN4fBNwmjFW9vYS2BDaJUs9NroQCRGgZgjKGtECH0iVAawu3IKVxbiSg5CfgyiSkMkqJrklaJiGkvLRMhKwNelLRsp8iSiJEXEJ7Ev7BcUJTYjolpkOhSJxYJA5FTjEwwMfc5GoZ3nhosiKEJfJURUlioHooUGilAJOQm6U0M6WxBGxA0QkjY8AjkfgTQotCXYhY1JIIZH4J7la4sSeRHYo0VJ6EpoR3IGyiiZBIYS00j8EctU/WjsSnYfBNxKJRsNSaEOfAqA0rzENBpGdZISJgg2hU1grCVYYKQiSuhTYIQqwb1KmipIJkSVREwRBk9yVDyRM2MMhkmgevNgSg2hCXponjLoZIIekk9iBDlEslMhkqPBBRMuI9CSRJ9icXJqI0RL6HYsST9hVsuwnWCUQbX7EmkJI0kMZ8lZJJKQUF/FD+6B0LISwSRKA6Hb4FKSzJ0XMkrEyayrEphKjyCacEmrASY6JK3k1ZIEYeS5lgo8/JF0jcSFVBgQIEjwKo24eARok9iCujZA26GRHQWCa3CBDqVIDYwl/JCI0h1I8rksn7F1lPmLMshkkjQvR6DGThxqxE07KA2odWJAy/Yd5LKXIU7WdERQS3GgvijwqYYFUQzaCElyIdIIksXaSEQh/AwhCgmhTv8AAh50ZL0gjSRJxuSGUbcfEQImBxDXUye3qgmuESaR9i0XGHN/pjZQ2qq4IykNZ41TRuQm5DOoqtXubofg4MgO4dDiDOhEMiUeIjx0CGnOh6g4/UhAg5uOlAhdS8ed8CLcKXYUglofMQ19hBBNzazyZE9kJk6pEiRLKRse1hWBkJuK9RklBs4mMk2wNElgqChIzG5Q3uS5IJI+xrYPtCIYOy6IuVKs2+Lm5Cg8Ow7YcOgflDXYsJE8iY1ghlZ0kldCXBJhSSpgbJMDkeMD7xngRKiqBBQJ6kaGnF8BQuEijoiZKBBNgRKthP8A3AmRrgnRMSGmEcJPYg4IKiTqtRpXUURGiRKnkkghNkJo9KSBP7GOmJNCbV0VsOeJRsVKcJmudcgckAFRgJsq4kxBvGGVGxoTMBqQqPdCYrROpFOTTAK+4Ur9C8qI7hSgJz3HTRJKhpGUVheBYsm6oQdrloRXXyBs+5oh6QSRo1kckxQZ3hqofMhJXxB3A2hEatMkx3I4h1emdJ0mn1P5BJKC7FUqrFeYgoOkyNbAkqE56YKuA6tLsmNusSyV01lEkPSISfQphymBWEhN0xLCwJoeoOpwHzYXXIRb3FlsOEKFvYaLkUJBx7hM2JGnt7CBNFSBMgTuQSN0ZZEDXYlz5JC+RPbGlUvIkQNkkORKHuQLwWlOk+mCSK/UjsVAdPInLdEpOaDigl8PkgyFBSIFnYFLqBygVsB0ExLVXq1LvJ7lpPYTlOgVWymOCM8Ali8jYcDZhothFOBsnlTBB0sVR4FZ2Ga/u8IhkrWNIJVGTR6SQNBDcRHkISKuhEqZJBgipInqR2bifrSG2ifquqAmXlCWVKoaiCBOxjirk+RXVWG9EE9yHQd2E4CmFE820MbqJLgLKWJaCKbDQqgJcIkSqIh1JskT/BinBHAcjcVcESbLSCRIqJEjWJdzKpAQgTGmZY3FZiSUPkiE6PRA3Qb/AA0gn0JDcX18dhjhI7FhNMVRWRpdip9hKlhPuQNEiFGcCQk7Fyoi5EFRJRY3oPK/8K5VYpUmMHso0wVCGxdQlQmwzeSGpSp3JJTYmZLdg8zrpD0jVvkk8BInBs6k7COkMihBDEsEOGCMbEomBMkaEJQySNII7D8xwWfZHFLIvKOqhA1ZJnZkA1gMoTQkoJXM1RLN0NzHF4kkDi1ztiLjBLkKpJr/AFHVgpJSZwHSW0KkruJ10N7HAJVZYnNCZO+0VExUlkj7iYbkKoupLcXYIQiR0GCBHAmj4mLrIlInQQjTgpvEsnSNJHDI3f7L+VBzxFwOghpVuGuQbLEBedHobgtDqholiQTgwG+42qYHqyRUb5zYQIoDVRIrXySUVVQIo8JkVzESuCbMpYP7ZI/3iPe0qNoQlVDeg2WtwmOJVQ2BIjRj7kNPuS6ew0+jHS9ZMXVHoVEPRrRtUjBP2cZgbrCbgKuQrYHAxI3QN303IdBomWhsMSxobjvCOwlRbCu1hiK7FRWLEGwhY2dAlaHaMIEK/wB0Tylk8X0JXA3nWsBSaXEkIkQmQxUtiZErCTE6WJIE+RIbRlkTZErwNqSCHQgSQ7iuKPdEPwyCSbiT7ZI2sJxOBQEp2EkvBMvCXpLGiXUvdoPBsohba0R9DQgo4r6YxFRKv+iD/oIzoPnnQzzgdKekS5O5LGtCdVI0GtTzCM6JGyDCJOgrqLBAk51ixYxMh77EvoU6EyJdxFRshjQmh0Nxt8GbkfbxBirRH0EOmdBRDqdh2jmpB4joCgL6uOiqARlsp7CVnYvqJXIULihRuGkRIpBuJsyBOdVjYpoQ0Ea3elt9BtaNCz3EmgBpyMhPcSwtBom9BImh3kVxPAuokQJlxNSUVIEiK6QQi8kjFPuG8rA+OCoSR7BAuoO4Q4FHUkrTchkq0STub6CjRWiXsdxVSYLA2oUgnAKJcNp5seeZge2DaRi45KBoEoYQipI0QbhIP+EDCQ0JYFRYkngSE3NhInSCNI0kKrSR+CdLYgJiJd/XAl9i0MJKSX0JVLIkQLSIdzqCMrFBq4FYOiGwkIdCQnVozvDqpih/2KBXLLHcdKkK+wUt9GIIG1wDZtYmugkKBCaFrkuylYxkaUyLVGHeJUQ2TdCSTEhiE9UlkQG6CSdxOT2k4G4g2NEdYdheiCCr7Jp0IXJXUhoJ7iS6E0Q3FM9IhNw3RUmKYGoidbSYkTsyKpSDQpSVtxKgacidFx0pQVLVYkjIVO3uKLAkvZFWLQCeCbWGxs/AZh5g3A1US0JKs5hpjG6yJUIJIERUSQW7skRbBguoORDbYgkKTcluvobIIEj/AB9o2aWQVG+jJYtO7gws7BsCGVokmQVgSUz4IuEQsN4OeGJWQkqhWFTZVOIG6yiXhTa+gdRxp0RAXsKJpgSIfjRxRkuhATLLki5DXGj0kd0TZElqjZGx6O+hUCaKNpDVeCVBZ2GxAtIJ0P7UbpIs6lYZVE9qabNoPL/AoFUyQZhSCsCrhSDCQ2hMkLsQGXAsNoSXYo1s9wcVULVQhc2iRE5EVQdwNknIY9xjgJDYsiCYwmIgnRPRzaBRosxJDRImUEqNxpV7kegyCCasbJ+0gqUJCpxKy8aBnNUE6BDOtMilC3QhyT3kLmUuxYw4p2QxIbdQnSJcPvF1HVojyx9yOsVVnyceKyIRIFSDq0lYpyjaRFeBXf4RhQRpSPAxaXNxsguEhvWHuJDYxZDdmNCEiBRoLskt10QhIiiG7kiYvtFQp20kyUMGrI75HQ7ACUUzfNyaIlUUglY6B76E9B1U5QnoM2HdXYjhF1GKhCGyVtk1AfNwn2IQJEIkocDhrkwHDBPsJ3HEj2n0EYklbDWiSRXIkRKUTFoauIROiSgTmLYodxrHBBGjZH2kaJwKrIH5GxOiSFq4PlDUibEqmQ74Q9I0XZQKqiSTYlYNnI3I3sL4q/yP8QOjY3jKoVXCBp0LToL1joVESzDQO6ks1koVxMPDC5gS72GIViVF+xv8jLitqTUekjRFNEuxwEN3NPcElqtbRIVriSdEhCBvSfuK2c/AuxIhH7E2ZkTgEEZWSLOWBITJaSxticiLBRE8zLwipAN3qbhldOiDYqCSMKol3EtgqsSRRA2ZBNiBOzJzAlRioVYRDuxoRdBGSdIrpIikhhITiBvgbJENIWSddyCNEtU6IX23UEuFzYXIRZoJqALSg+5lfhDakdihFMaewUXEbsFzv5ZcPK3goWfEh9GqShUKFiNglwJ9hMS4HuxNRc2w0oFNgVc3Ym4nVDTJyOKQMkcCqIyNExomJjTkbYiROUSIQlQgSOaCdWxD0kj0J+4oQSouLDo/yOv4gU1dxLkjeEWi9ymce5tRIjS4ru42FVKTcmoSoQkbLSUh8qLFdKQe8dkXf7CqQmCplYVxpmJyWdhpF3JI2CI5JhO7txpBUbtUSWzH05E9xOSKHA1S44G9JEyCB6wLRIq0UJvkSJIJekkaIgf2skxFv8BUh7OBosFfJod1HNaGk1SIJcSE5HcncJOXZEIN110mngYhQYuKKjDaCT63GQIS1I2grCa6JKSwq+xECKidQrBMEQ1iRvAmbjARmSMjZPozqtIJDRBNFL5LsbIJ1gQlq39rHHyE5b4GvYVwX+S3JrD4HbnZj5C5K1yDVJpSt6Mfg7c6G9O4shPJgTutJ3sJK3JEJVFjI+G4koSFba4iCBsggineY5G1/wDgqsJ7jgYmKSR7j8jUQtxwNTJD2KkkV9K9K7R2r2vknSCXoifQ39um8BtVB1jhRjl/ITnI/Wn7j/0Cv3IjE2NiiFPViJG7DdxMfGlMVtBCEieRGRIkZAlwOrolRakSd9EuLgyXokRLKiSuJuSFJG0NMqIkj0NCbbmYEs2Hw0UFgHu48tDYyCX6lqkR9qm6/GQQS7hD/eHT/gRiI3JhNR2Os6qigRCkuclJoJcCN2N0oGkQTolI7zpQNfkSj3E1E3EYEqSShUL7hFMPuPVjJZGZERwjhOlR3CF0GIiCCKeiOBITPLGo2WwNtzzrAkNkE6wRotJ+2Zz45QVL+Rn8AiheyHCjhrovJDhz0J+6CNslBt0OQSTfYwO2sS71GuxC43VVfYZzZ9g0/wDQNSKPCQ9uvJybl+Rq1iar4RN6kkEjWkEjY+BbyOysNEU9jfh+omSKdJ1Qm3AmL3UeBtY/cMggnWNZF6JI+1fa9xHzCo++Hzp/ipTFJXjSRkelyJcDzfomg+E2P9c6ZIJGskjsGVByZkSkduwSL/oLq2RTGBogknWfS0xVhvMSKypCuNuxvzshXpeeBP8AJNNI1hCqk7gvA0jca3PcJEE6SLCiNIEh+idJ+1dyEhJtB+f86Eq/CCEvm1CMQc2Ik88LAimiTy14XUS5G2BYy3sKEpyJjAtJ1SHYxdpyVgT6gs1Quk6HYmJ5z5J0bEuRMgXoZyaKUwLLgqyT1CuDC6pErqJayikXIZRgbl5GkSQZ5EisDY9EyCfRGk6T9tl1iDBvqynDtYitnHy0FUFT/digG5TuVFW/Yh7tMnTxGNxyJKNJPYsxRFthqbE0EeMVI6iyip76YqMi5CV2K8Mf4NPBojSdJ0nSdCLQhoOyQ0J8wJOdYIxHyT7QukIl3oJ9/YVdSURWxtvfVIbn3ckNCj8vpSbiQiBfatCTdB1gA3hM8F5Lj0/6mXc7+dfcrP0DTdrBjuMiTtAm9gr+BOV6iEIghbQR0vYyMRTwyQkJThxcYyX8C2VwkSu+0dXcejWsEapkG0avC0S8hRCUECwiXS0kNu+CHsSG+BTqN93pK33Jzt7kDBQUizQ4FCfQTIJJFpA9UJfapkPA38YRLpt7DO5xgrUeI6NP+wjI/qN4Cy/9CGttA02eECJmbIT37iSlbiyF1BNeRsdXA6n59ZIyfKEp/wCBJRgO5iwlghGcL7i083lXOaEEeqRIkxB0DmpLhdxKbncid2qDVFkULANNv4hruTRDExIXQjItxIMh5YH09KI1j0wT9rTGUnwyI34i5/AJP5cOrw/tkKCfeLhaD+wMCsJ/BK2su7Ybpq8KXY2mHDgZElrkJANIfsPpPsNrixbOB4XLAQMYHiUjV1JMIgQbZZiJkb8jaIjWNFpAhsSHNKyQ5dxJS7JYJdzIviJJ7v2JaZDnZa00aG7EXqPZ6MPRGBDej+7gsMzLe7MMBCmOsVLxwFF+4HJVPkI3ZPf9DQnyOEfyIfshsbyhrH8bFbQjokyYwa3jQpJ1kS8peaiwIMSMIJGQS5HgPRMONcN+XYS5F6UhsZlkVhWdNuRLlrwhvuJlqt8k12wRTuJISpstXokSEtGjxcJbxOs6LRaQPR6L7SRWIRGUrhVFrOodav4kVLpqIcVZ4JdMe5IbuUjenY/qhTp+cR0XcM+41k3Ces7EYMVgJpy9yzgmpL7GR2KiV1JNiNA1LdENZM4L4uflie+kawNEjEkN2JdHQU0qxoHa0i5QlbqE/gT2uTpBFNIEO4iUcifgX0ZCGSJD+0hEiaKWztIO/Ygppk5Xx3F0UnyVsgii3f8ABoUdH+VOvBzcWGdigu/QZBRIkFonokJDdqDciEhJiSWSrYcCLglNpJ1eiRPBIkZ6Cqix+xhtQhfJ+AT/ACQVETrDrgewSqpIWxXK2OCH0EEEkEepL7Og1YNuCpxPIb80D3DvnYtVy4GkXcF/fYcGQWgihFRq7AequEqKFiy5I5He86S3yQKujlwcVQhCQbrZHcKERT5YFjXtoyTAxiRJDoRzo7mNJeRfmQhsglkMn0M5dENNGVWhCJTyImK1dCYlpJHokjVfZ0Gu4uv+xig2wfdTjkbKhe45HP8AEiKgjiLmI2HDp2FxCP8AgDfyEq+g2iKCQ+SI0khCd6DyqTYUGdMnbI6CQhw0dvJjun0JETokRYONhLAKPcxLkmu1tJFoSROkjcriB85dCOwUTsTzC5Z6nOvS2JaSQVEl9rCE4oOq0ewlhr0KEvzAr3JdhQWRftgI92Epu/yzqjA3m24Ek0QdKRCgckmRk6Nq0nAPspX4HEp+4hQrruOLXIJ7HQ6j6oTWg0+mkEiEsGyGGrsatTcSvUStX4GQv9GxJCs/uBtLov10mgtUNuXgSoYXinJC22Ejb9ifkQySCRvSCCWSL7SejQK/yBBavBU0Ip1vnBePYg/3SWTdsE8RYdg2IUD4Mi6lRLsVvYgwN0IoSK8CFvAtKqLArQSiWgspwLLKRyLMhJb8iTiAgnRaQInIlzork2SxNwsOonoO3P4yUmvyeWKryJwRokSpJIRHkniPmdRjS3V9tWSQQQSN+hfZQS2TPIO9FqTEy8rldRbulCknkxw5Y2JbjORAH4PcbI7XHqXMu4/dB5KUzQbFwPsG++iEuBCZ3NsE0ObCs6fgjvbZima3Fmu5CikyLa/uSZV1E1GNCYngkLsN8EexJChU3H2FkqsewksKUE+4tElJcRo13G/7hoRDJ2ZLu47lcTlLRG8h7xotEtV6G/s4XUh3KBjPyK6YxZQU+x2xWLnWNioicXEgd0/oQ5vUbtjlbD41NN70kdN8uAeFXgim53ieONEihrGdxuukFBxeGyG3qWrAyuAlo8Ibpib9+2P6Y3MmmOdN3KzRBCJJxJsHepH0J5Er4OhEraPcbxAlJc1CuEqjsrLG0SiKax3HIz8Da8hqap/pMyVWHuY20PytEiCdFo2Ij7RuxOBWtIp7RzlAnEIIrvBOzUKgfIVQ1tbG2m3JfNIjVRPI2KgIsNtoTpfaLiZCQmQJp5FXdkEkkN0EjU1Rw0XODOH+yDb3Vhka6pGwhvh+D3DkbnDYw3cUoCScDVKjZ3E70IQhPkS5JEhPcJkD5SN3IIJrpBEcMad/KCLTn/oKkIrscj5HytIJGT9wkJdS6QpT3MJZeiFVL3G4re3g2XvDoKPsSF9q3NgWwRmBP3UOSlkRugaqKWas6wbekHkTh6I6hxIn/mDsOlWZbuSV/I0KKKr2YqCI90JsonA/IX/YJhq2I5JJ0kiiqQQNkPWX09CEqd9JRM8exnwgUDwNvoQ709jJy5fe9R30kKayMmgHyl0DSodhL3v2Lkbz/gysfPIrqD9IFUJECRA2JSNHUSpRgSG9Ceh31lFIpaVCBUfgyvcTqv8ArRi5o9iborTghBj2keXyH2Gr0EuR2hOCSURahH5EiESTpJBJBB0kRQhD7fhkp2EIO4NrYl7BaP8Aoa6z1R6JF9jCoTdBVA0o0Nri4wElaIRqV+xC7uDUSwRQcZbIewUIpEk99FpKEtKnoiotgQrk10id/cQ757g/waZICdysYSMdIXwxtJJ+mbFuJdoc5fA8v8IoqjTHoqcu5Xl2G/wStVJNSCBtQsiQuJZOgJ4IknuJ1Ww+65D5a9tRehsf2raoNXR/oqDcexfkeS9HS2MYxuN2OtkJn3F2CdGdE9IyToaVcDY2mrC+6OaPdkGRhQ3m+6eGJWrvd0FdWO4JyCUXEW5Ci/Qmp9ODVWN8JDdsntfRLexv1Y255GxpaQjgkD0RJhbDXYamsORS/wARLKOxEP4xtOLk9Ov4Jrv6J9L0n7FsVBXrFJG7+CTOSEqKpqRyaWFbdhOcFKrwK2sHl7CfCrwMp1SJEtHBQQp4DOxDFg6owSoHHUki/eS3Q1bqu6YmvcKdBcwXZFh0c9i/Q5VTwiLdvfrgnpsjt+TibEibhQbZCa3l10TnjUuoqJYEvRD6vSabk9/lD5XwOeMDNHcpBC7HwvoMk7CX2UskpaP8GnQYcdxboCdZFBul/ARcqos7BWA7tF1BXeEdY09IUiWmw9x+5h3ROka0FvTgan/A/wAkp8irWE6oSWs/ldRu+hFxUy3JSa6IEVuhjv7C3XtDatFnkQnZWcjn+oNdYZy8ilmJJ7Ed1ohDdspjVWR6EkjefBCM7EVtkWw+QmUFsUF7XoFLSdXqlrH2KXY/eDJLY9fEIyO/QkQbL5EbDn8MyTkGwntc2E/BMO8nmUJok81GWkCRNCHo7iSY0KoXuSEdkSjyPwkfgBJ0tQI/3S6k8EPojmCEUR7obmtsV9XcdRZG/wDcDb5dx7FXEqRJ1IW83PYR1KCSZDoJk6wTghaQI4CcdR2oOa8EdI52VgSR0D0AyRvSPRGjf2Mj5hmWKvbfgGCK6kKgfUlMn+w0rwiA+PBLIJ7nmIYrR6gmyBvY8DP+oEZEIkaI0Ykm3io6FmFUJD8xJ2gTCWv7aDbr0DujcUiWUW6EeybDkTsLwG3flxwN8xbqQ37HlA2cE17Ip7iJ7qg0ac2R1ESIWkE9yFowLmL3glm8jKq/sewbcD4UuLRkkEelk/aJ5cewqoWW7/Bf4YG1fovA2tb2CHXv8w8rBcq2XZh6RKcHD2C/9YJwXI8uRQEW3QykiYtH3CSlJsQKYWdHRbJRYVSXGfIaO9r2JI+YGOhx0LHxiUqSQVhC6XQit/yxvv7jce4u0QvcbuWR4ELcqN02oiEJKZSSIG9JEiShBmo9sDYloD3cbG/UtJ1j7RXT4G4G32bH8SEe42VpMVUrCqXI3VDtqlPnQlR38hPsOgFvWex2Ee4wPoR40FtAJXQWkC7hZdB9hCJfdFzyJ14E99psmbjbZujWg1JEZuolzJ2MEyeCS3Fxvil5I3AmjFw2/qkw/wChgbUFBYYxtkaSQNsSGq5+EhO2U+PStY1bER6I+zyBUfof9qDG4j8NxW0LhhToMeT2HO3dx2NGX8SRS+BJ2JaOR1Zq4khJFCvJOhx0E7Ushd42J8puN+wil4RDfIFXXgd6b99UC/Ah/wBUSfx2IW0+y/0TW24pt7DoXH8EjXd0IVKzRdRCQtEz3EEInIp6kCEqCtue42ofpjVkelIkj7OBShF7KxWU/iBi/wCAp/2FupF/wMcqoIVrI0odCsfkKGxaffQY9wPU2E3CpumNIISlcEnsJqxobQiEusmwM9hhTs8srjWX0G3G5Cju4G/DO48QM/8ADcewfxDXQMFxEdx/HljQyhFeBuHuqiMEkiXjRK+Cec8lFf8AHrn6MDG/tCShLU4EbkQL/KiWKW/wgfOCoRyzJ0PYYF10Xyp0CffAkU6DcIkdVsbgsP8ADSw1wKpSGp6CSVaaEqCKi4Bk4jcqWGpLqE3OxNLIfW9mwojCrG5XwcI5D5GjuEOiI+WVbJWMuwmZJIYnWBt0IQkuhW9v+BrmqOoZCCSNJ9L0SIJG/tlEmM6LjFW/g/0abU90DEz/AIkQwgQmiNHI1UP0EQQuTTwNrYewN3DUomBGTwgWDYfJFNiBvyT2oKs1yFAwJi4S4Q4kpD/Yt2KEm1ejjRt6NLZCfY+Bwtzgqi7PwPYnQb4OgNqt+w2tqkIQhvyeQr31kSKwiFG67BKWJiSX1mCdhPycV6TqkJE6Ro39yhEiqZBbhZapC2bPEj+fgG3dyY3tAktjqz/g6ipCgUW4lQSoStye1Ox+hAmJEfJJFKwiNasSzYTPnsQxCTfhTgV98F4RDh0adeDIpHQResWG7V9hCN9xvuJBVsT3Z5upFNxIggYk6EI1/RC2n4InhSyT/kIrTIbXBiwMCh/1GySNYESN+tjF9lUUzYNHAjdKOoqirBsI8aE9gkmJ4ocbLP8ACUe6gmq4E5ExLdBMKmn00ioiRIf0r0LlErsQ+I/g5I9/0QXHtBBYo2TH+EIUGyLk4syN7F8kOXgbrRsK3Ze7cjvjbGgkLSCRBkS0glhpLufQaXKRU4RGMjX/AJhPWEm+pGiQxv0PSSTsJo/s6igTTxcjLP8AIOZkeJa5+gQoiw7f92PewRyIlGLSOQSdDjL3KlVfYRGSkhQckvaBLgUVdaj2RG3dPUjqdBjskcFcqFcvkR1IPqroIbjmncVQzc/mEP0E129jkbG/sFVd8CRJGmQnRQN/gXYJwkSXkldbkvoTjBHVBBDaqOrWckK4+C3vrOrHpIhR4oNoyBL7KBtk1q9j8/OWyw2OTbVZDaSzqw6Pyki5pBwhMkaHZQdOBBAUnZJEFWbcDsNlG3JNshMwTdND+lCYtgoqe52Hx3Jt+wkNiJ/6GRRgQ/khCWiRI0tjo3JH5Ijgl7IbuGGiO5LJnesiXsYsNyr1Inangq66zrIkJyN20G9EiBjYt/s4ISIXyRLkC155Bc/5Ca48ikP1EH/BISVbIoJ4EILbEfsJ1GzxEFzypRgElRrKaNEIpFh+ALvCN0U5G31eC7bPDGJ0PsJv4JxtcbbB7FDf5F2CRAh38C3BVEuDo3JYlRkhB3+CLyQLRhiYTJj98VL0EIS9CSEtEJj6Dei+0jT7OSD2BUN9l2H8EhhCngflotJEqncGxVILyRHOUsS/eB554CZxYZ8DQixg6L8RNwM425OC9hpu413G8YHbuKm/uKCa2EiSBzEOSoB/Ui7uJ1DrapMDuPQkLuto12Ddht2HwAgw9EhIZIvQh6KPA4zs9DGdTl+Tl/cNWoTP8csW7PcP+1EISOoZmHsUg32nyTdl4RVfxwZLf4PsghHsNpPJES7JbLQ76RcTReRWwk47nYhITBzPkSkN6CQildENVC5Qco6r/ggo3QvKLImb9hsbfS5JIL3gob/BQS51WROSElppkK3JVaGG9JJ9EeiGZfbv6ELWEpvSBJtBKIWw6RzlR3ICD6riUPgXtwSoj/BOQ+II7CRZGjpUXMdRS5XWxQYEuBp1GGTloUc0KBXuYuyg7RNhhSUJXG/lGKjeSQxsNWHPS5VyH3DUlw7Gb5mOBhjlwNU0E9DIPBWJfXWNE/WnfNyz94IV3bln8KRoEkC6CGrx5R0XuJ1BJVEvKakhaCRE2Vhdz/kG59Mn8SYFQ6/kTg9u466jeKHeYkTQGjs8lQtFj+qXrDJ/P6N88LLH1RgsIRAJjfSODChuuO6sW0fQUKJyJWSQmBLMMjbkxKXIojA8FPRHokj0yLKsNOLRf0Q6+ufsEJy59hTBY3P+elsTQZNvZFhJ9xctD+0cC7skSHuTnSSQQ1YoaDsMspF3g+SDskqT/wCCk7A2/wAIrDkRuvohgsUnsMuRySQj/QIdjNutZ1n0piJgfaNq7YR3biqVRJDXcU7AjlQlX6ceigt8tYEv1SJfYpmj+D/rGJrn4Fe+O05KmwTygZSQn+iAkJlbieRPJJPpatQpJLh0QduzaBkm3AG1XAna+yGhef6H3kXoL/zkTP8AJfVgc+StEYBIbTvrHrj18rEEE+nrgej+mhbiEOrkf/BjkP8AQ6sklhflQ925E9nhaKUZQh/USIwLSf2Q78AVgdBrYW433+2jSfpppNziDGv/2gAIAQISAz8Q0Igiem9751qKeAfP64ImHG9MD5bnQ3A7Tyr6bMLaeo+b6E4CYHye9HSZ2Ii44CO00gidtHaNlwKkTFJk4Ii44kbMQPatVUZ2EWSJpHeiXTWj0THU9D2HRbsT1I2Hp7SRpRPWOURG17HuLjKNpEzy1r76XXtIiOcVXRitrXUibxoepbaoh7amnfZ7Tq0W0QHrei9GTRUVYnS9plzqqoquQ6sWmtDF10SHFEPgvbRMhXFXS1ZparlrbrEPcQ6smSHSKLQyYoyC2h9dp0Ww9N9Fq+9K6E07TS3Meh3bti29Eapncs6vTEi0NyI2StoYtMVUcC3AUbrng2pOpD1Ob6lqk9i4NqRseyJJpEbiLct0Yhw/GIZ2378lDFR0Q233xFRkQM76WWW/bi3JgmdhTqezbjMjZt4O+0h23lI+EqztKTvuWLjjwCLbudXBtvOQqKKTvtXElL81XL1bbS5aivwFTvt2JiRjtSB7Fz1xLbahkT1oXTbUPhOklttRDeUQ2Z473reAceBU1e0pGtu24jmijU9Fy4QLbtKkUgggjhXrDOw+m4ZMVsuWxETLIsHeBSKFGyhxV8i+uY6cn//aAAgBAyIDPxD+iT/oOh1RbcXOvWY4C5cuiH45cJcxiq/Fvy78Etc8N8Ri2HWdS8UvKLdfLeqJjlvhOl/GLnx+nVofinoX9Yn5CP7Pr7l/B38dfxdvHW8w/Cv+l/8A/9k=",
+    "display_name": "",
+    "display_name_changed_at": "",
+    "updated_at": "2026-06-14T15:04:12.683545"
+  }
 }

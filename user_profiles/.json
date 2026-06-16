@@ -1,20 +1,21 @@
 {
   "gamification": {
     "streak": 1,
-    "last_visit": "2026-06-12",
-    "xp": 280,
+    "last_visit": "2026-06-14",
+    "xp": 320,
     "achievements": [
       "course_of_day"
     ],
     "total_searches": 0,
-    "course_of_day_opened": "2026-06-12",
+    "course_of_day_opened": "2026-06-14",
     "weekly": {
       "week_start": "2026-06-08",
       "courses_opened": 0,
       "courses_saved": 0,
       "claimed": [],
       "days_visited": [
-        "2026-06-12"
+        "2026-06-12",
+        "2026-06-14"
       ]
     }
   }

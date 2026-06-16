@@ -2342,6 +2342,20 @@
       "url": "https://stepik.org/course/230643",
       "organization": "Unknown",
       "ts": "2026-05-25T15:53:53.536764"
+    },
+    {
+      "title": "Разработка веб сервиса на Java (часть 1) — Stepik",
+      "source": "Stepik",
+      "category": "",
+      "difficulty": "",
+      "language": "",
+      "is_free": 0,
+      "price": 0,
+      "duration_category": "",
+      "weighted_rating": 0,
+      "url": "https://stepik.org/course/146",
+      "organization": "",
+      "ts": "2026-06-12T23:51:40.685815"
     }
   ],
   "onboarding": {
@@ -2354,9 +2368,9 @@
     "completed_at": "2026-04-20T11:54:01.656042"
   },
   "gamification": {
-    "streak": 2,
-    "last_visit": "2026-05-25",
-    "xp": 1530,
+    "streak": 1,
+    "last_visit": "2026-06-12",
+    "xp": 1570,
     "achievements": [
       "course_of_day",
       "first_search",
@@ -2371,14 +2385,14 @@
       "explorer"
     ],
     "total_searches": 18,
-    "course_of_day_opened": "2026-05-25",
+    "course_of_day_opened": "2026-06-12",
     "weekly": {
-      "week_start": "2026-05-25",
-      "courses_opened": 4,
-      "courses_saved": 2,
+      "week_start": "2026-06-08",
+      "courses_opened": 0,
+      "courses_saved": 0,
       "claimed": [],
       "days_visited": [
-        "2026-05-25"
+        "2026-06-12"
       ]
     }
   },

@@ -3319,8 +3319,8 @@
   },
   "gamification": {
     "streak": 2,
-    "last_visit": "2026-05-25",
-    "xp": 12985,
+    "last_visit": "2026-06-13",
+    "xp": 13065,
     "achievements": [
       "course_of_day",
       "first_search",
@@ -3341,14 +3341,15 @@
       "xp_7000"
     ],
     "total_searches": 349,
-    "course_of_day_opened": "2026-05-25",
+    "course_of_day_opened": "2026-06-13",
     "weekly": {
-      "week_start": "2026-05-25",
+      "week_start": "2026-06-08",
       "courses_opened": 0,
       "courses_saved": 0,
       "claimed": [],
       "days_visited": [
-        "2026-05-25"
+        "2026-06-12",
+        "2026-06-13"
       ]
     }
   },

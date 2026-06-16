@@ -12,12 +12,9 @@ from selenium.webdriver.support import expected_conditions as EC
 
 FILE = "final_dataset_ready.xlsx"
 
-MAX_WORKERS = 4   # больше не ставь на Mac
+MAX_WORKERS = 4  
 
 
-# -------------------------------
-# создание драйвера
-# -------------------------------
 
 def create_driver():
 
@@ -36,9 +33,6 @@ def create_driver():
     return driver
 
 
-# -------------------------------
-# парсинг страницы
-# -------------------------------
 
 def parse_course(row_data):
 
@@ -87,9 +81,6 @@ def parse_course(row_data):
     return row, None, None
 
 
-# -------------------------------
-# основной запуск
-# -------------------------------
 
 def run():
 
